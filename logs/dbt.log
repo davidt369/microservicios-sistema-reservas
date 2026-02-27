@@ -546,3 +546,24 @@ with relation as (
 [0m13:13:36.862827 [debug] [MainThread]: Command end result
 [0m13:13:36.870281 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe6157e00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe479d190>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe60aa3f0>]}
 [0m13:13:36.870893 [debug] [MainThread]: Flushing usage events
+[0m13:52:00.318696 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ab055139160>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ab0551cb230>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ab055308680>]}
+
+
+============================== 13:52:00.333643 | 51cf1a44-76ef-4ac7-bc06-f6f5b7ed4634 ==============================
+[0m13:52:00.333643 [info ] [MainThread]: Running with dbt=1.7.0
+[0m13:52:00.335581 [debug] [MainThread]: running dbt with arguments {'indirect_selection': 'eager', 'write_json': 'True', 'profiles_dir': '/workspaces/microservicios-sistema-reservas', 'debug': 'False', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'True', 'introspect': 'True', 'warn_error': 'None', 'static_parser': 'True', 'log_format': 'default', 'version_check': 'True', 'log_cache_events': 'False', 'use_colors': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'cache_selected_only': 'False', 'printer_width': '80', 'fail_fast': 'False', 'invocation_command': 'dbt ls --project-dir . --profiles-dir /workspaces/microservicios-sistema-reservas --output json --output-keys unique_id --quiet', 'log_path': 'logs', 'use_experimental_parser': 'False', 'no_print': 'None', 'target_path': 'None'}
+[0m13:52:00.654326 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '51cf1a44-76ef-4ac7-bc06-f6f5b7ed4634', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ab05513aed0>]}
+[0m13:52:00.762329 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '51cf1a44-76ef-4ac7-bc06-f6f5b7ed4634', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ab055016bd0>]}
+[0m13:52:00.763364 [info ] [MainThread]: Registered adapter: postgres=1.7.0
+[0m13:52:00.771181 [debug] [MainThread]: checksum: 8434eacd4ffdf0ca3ab22bf0e2d55b45306c9599613e842b959405abc489e606, vars: {}, profile: , target: , version: 1.7.0
+[0m13:52:00.779788 [info ] [MainThread]: Unable to do partial parsing because a project config has changed
+[0m13:52:00.780453 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': '51cf1a44-76ef-4ac7-bc06-f6f5b7ed4634', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ab053fa2300>]}
+[0m13:52:02.005726 [warn ] [MainThread]: [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.bi_hospital.data_marts
+[0m13:52:02.011209 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '51cf1a44-76ef-4ac7-bc06-f6f5b7ed4634', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ab053bacd40>]}
+[0m13:52:02.021758 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '51cf1a44-76ef-4ac7-bc06-f6f5b7ed4634', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ab0546a50a0>]}
+[0m13:52:02.022729 [info ] [MainThread]: Found 4 models, 5 sources, 0 exposures, 0 metrics, 401 macros, 0 groups, 0 semantic models
+[0m13:52:02.023563 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '51cf1a44-76ef-4ac7-bc06-f6f5b7ed4634', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ab053bcbb00>]}
+[0m13:52:02.026994 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ab05537f920>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ab055339880>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ab0546a6540>]}
+[0m13:52:02.027867 [debug] [MainThread]: Flushing usage events
