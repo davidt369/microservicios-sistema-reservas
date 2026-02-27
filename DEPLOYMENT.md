@@ -376,21 +376,27 @@ lightdash login https://app.lightdash.cloud \
 
 ### Desplegar Proyecto
 
-```bash
-# Opción 1: Crear proyecto nuevo
-lightdash deploy --create \
-  --project-name "BI Hospital - Comparación OLAP"
+⚠️ **IMPORTANTE**: El flag `--project-name` no existe en Lightdash CLI.
 
-# Opción 2: Actualizar proyecto existente
-lightdash deploy
+```bash
+# ✅ CORRECTO (SIN --project-name)
+cd /workspaces/microservicios-sistema-reservas
+lightdash deploy --create
+
+# Responder los prompts interactivos:
+# ? What is the name of your new project?
+# → BI Hospital - Comparación OLAP
+# ? Enable scheduler?
+# → No
 
 # Salida esperada:
 # ✅ Validating dbt project...
 # ✅ Compiling models: 4 models
-# ✅ Deploying to Lightdash...
-# 🔗 Access your project at:
-#    https://app.lightdash.cloud/projects/xxx/dashboards
+# ✅ Creating project...
+# 🔗 Access at: https://app.lightdash.cloud/projects/xxx/dashboards
 ```
+
+**Referencia**: [LIGHTDASH_DEPLOY_FIX.md](docs/LIGHTDASH_DEPLOY_FIX.md) - Solución a errores comunes
 
 ### Crear Dashboards en Lightdash
 

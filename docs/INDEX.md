@@ -125,6 +125,47 @@ Resultados reales del despliegue
 
 ---
 
+### [docs/LIGHTDASH_QUICK_DEPLOY.md](docs/LIGHTDASH_QUICK_DEPLOY.md) ⭐ **NUEVO**
+Guía rápida de despliegue a Lightdash (3 minutos)
+
+**Contenido**:
+- Forma rápida de desplegar
+- Verificación de prerequisitos
+- Pasos de despliegue
+- Crear dashboards
+- Errores comunes y solución
+
+**Leer cuando**: Quieras desplegar a Lightdash rápidamente
+
+---
+
+### [docs/LIGHTDASH_DEPLOY_FIX.md](docs/LIGHTDASH_DEPLOY_FIX.md) ⭐ **NUEVO**
+Solución detallada a errores de Lightdash
+
+**Contenido**:
+- Error: "unknown option '--project-name'"
+- Error: "getaddrinfo ENOTFOUND ep-xxx-pooler"
+- Solución paso a paso
+- Interfaz interactiva
+- Troubleshooting
+
+**Leer cuando**: Tengas errores al desplegar a Lightdash
+
+---
+
+### [docs/LIGHTDASH_SOLUCION_RAPIDA.md](docs/LIGHTDASH_SOLUCION_RAPIDA.md) ⭐ **NUEVO**
+Resumen ejecutivo: Cómo desplegar sin errores
+
+**Contenido**:
+- El problema (errores recibidos)
+- La solución (qué cambiar)
+- Despliegue correcto paso a paso
+- Documentación relacionada
+
+**Leer cuando**: Necesites una respuesta rápida a los errores
+
+---
+
 ## 🗂 Estructura del Repositorio
 
 ```

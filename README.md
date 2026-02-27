@@ -371,15 +371,20 @@ lightdash login https://app.lightdash.cloud \
 ### 3. Desplegar Proyecto
 
 ```bash
-# Desplegar modelos dbt a Lightdash
-lightdash deploy --create \
-  --project-name "BI Hospital - Comparación OLAP"
+# ✅ CORRECTO: SIN el flag --project-name
+lightdash deploy --create
+
+# Responder a los prompts:
+# ? What is the name of your new project?
+# → BI Hospital - Comparación OLAP
 
 # Salida esperada:
-# ✅ Project created: BI Hospital - Comparación OLAP
+# ✅ Project created successfully
 # ✅ Models compiled and deployed
 # 🔗 Access at: https://app.lightdash.cloud/projects/xxx/dashboards
 ```
+
+**Ver**: [LIGHTDASH_QUICK_DEPLOY.md](docs/LIGHTDASH_QUICK_DEPLOY.md) si tienes errores
 
 ### 4. Crear Dashboards
 

@@ -24,10 +24,10 @@ models:
     olap:
       rolap:
         +materialized: view
-        +schema: rolap
+        +schema: public
       molap:
         +materialized: table
-        +schema: molap
+        +schema: public
       holap:
         +materialized: view
-        +schema: holap
+        +schema: public

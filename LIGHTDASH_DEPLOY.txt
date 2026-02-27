@@ -1,0 +1,115 @@
+# 🎯 Solución Final: Desplegar Lightdash en 3 Pasos
+
+## El Error Que Recibiste
+
+```bash
+$ lightdash deploy --create --project-name "BI Hospital OLAP"
+
+error: unknown option '--project-name'
+getaddrinfo ENOTFOUND ep-orange-sun-aiyh4lhb-pooler.c-4.us-east-1.aws.neon.tech
+```
+
+---
+
+## ✅ La Solución (3 Líneas)
+
+```bash
+cd /workspaces/microservicios-sistema-reservas
+
+# Comando CORRECTO (SIN --project-name)
+lightdash deploy --create
+```
+
+Eso es. El nombre del proyecto lo pides interactivamente.
+
+---
+
+## 📋 Paso a Paso (Si Quieres Ser Cuidadoso)
+
+### 1. Verificar conexión a DW
+```bash
+PGPASSWORD='npg_jr5fHxYAJU2S' psql \
+  -h ep-orange-sun-aiyh4lhb.c-4.us-east-1.aws.neon.tech \
+  -U neondb_owner -d neondb \
+  -c "SELECT 'OK'"
+```
+
+Debe retornar: `OK` ✅
+
+### 2. Compilar modelos
+```bash
+dbt compile --profiles-dir .
+```
+
+Debe retornar: `Found 4 models` ✅
+
+### 3. Desplegar
+```bash
+lightdash deploy --create
+```
+
+Responder los prompts:
+```
+? What is the name of your new project?
+→ BI Hospital - Comparación OLAP
+
+? Do you want to enable scheduler?
+→ No
+```
+
+### 4. ¡Listo!
+```
+✅ Project created successfully!
+🔗 Access at: https://app.lightdash.cloud/projects/xxxx
+```
+
+---
+
+## 🎓 ¿Qué Cambió?
+
+### Antes (❌ Error)
+```bash
+lightdash deploy --create --project-name "BI Hospital OLAP"
+```
+
+### Ahora (✅ Correcto)
+```bash
+lightdash deploy --create
+# El proyecto se nombra en los prompts interactivos
+```
+
+### ¿Por qué?
+- El flag `--project-name` **NO EXISTE** en Lightdash CLI v0.5.0+
+- Lightdash ahora usa prompts interactivos en su lugar
+- Es más seguro porque puedes cambiar el nombre antes de confirmar
+
+---
+
+## 📖 Documentación Completa
+
+Si necesitas más detalles:
+
+- **Rápido (3 min)**: [LIGHTDASH_QUICK_DEPLOY.md](docs/LIGHTDASH_QUICK_DEPLOY.md)
+- **Troubleshooting**: [LIGHTDASH_DEPLOY_FIX.md](docs/LIGHTDASH_DEPLOY_FIX.md)
+- **Resumen**: [LIGHTDASH_SOLUCION_RAPIDA.md](docs/LIGHTDASH_SOLUCION_RAPIDA.md)
+- **Despliegue Completo**: [DEPLOYMENT.md](DEPLOYMENT.md) Paso 4
+
+---
+
+## 🚀 ¡Ahora Sí!
+
+```bash
+cd /workspaces/microservicios-sistema-reservas
+lightdash deploy --create
+```
+
+Tu proyecto BI estará disponible en **Lightdash Cloud** en 5 minutos. ✅
+
+---
+
+**¿Tienes dudas?** Revisa la documentación arriba o ejecuta:
+```bash
+lightdash help deploy
+```
+
+**¡Éxito! 🎉**

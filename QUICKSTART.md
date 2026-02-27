@@ -112,9 +112,17 @@ npm install -g @lightdash/cli
 lightdash login https://app.lightdash.cloud \
   --token ldpat_0f41a27c36d4eed5235af44c71e88f5a
 
-lightdash deploy --create \
-  --project-name "BI Hospital Quick Start"
+# ✅ CORRECTO: Sin el flag --project-name
+lightdash deploy --create
+
+# Responder a los prompts:
+# ? What is the name of your new project?
+# → BI Hospital - Comparación OLAP
+# ? Enable scheduler?
+# → No
 ```
+
+**Si tienes errores**: Ver [LIGHTDASH_SOLUCION_RAPIDA.md](docs/LIGHTDASH_SOLUCION_RAPIDA.md)
 
 ---
 
