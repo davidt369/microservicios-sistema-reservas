@@ -1,8 +1,8 @@
-name: 'bi_clinico'
+name: 'bi_hospital'
 version: '1.0.0'
 config-version: 2
 
-profile: 'bi_clinico'
+profile: 'bi_hospital'
 
 model-paths: ["models"]
 analysis-paths: ["analyses"]
@@ -17,7 +17,7 @@ clean-targets:
   - "dbt_packages"
 
 models:
-  bi_clinico:
+  bi_hospital:
     +materialized: view
     data_marts:
       +schema: data_marts
