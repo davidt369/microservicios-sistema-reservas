@@ -99,3 +99,450 @@ Runtime Error
 
 [0m13:11:10.555001 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7032bd5f7560>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7032bd6e47a0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7032bd2eda90>]}
 [0m13:11:10.555990 [debug] [MainThread]: Flushing usage events
+[0m13:12:03.739754 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7644fd22e390>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7644fd74a7b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7644fd22e600>]}
+
+
+============================== 13:12:03.745455 | 7d3e908a-aaa7-4fa6-a81c-572dda5603e1 ==============================
+[0m13:12:03.745455 [info ] [MainThread]: Running with dbt=1.7.0
+[0m13:12:03.746968 [debug] [MainThread]: running dbt with arguments {'warn_error': 'None', 'cache_selected_only': 'False', 'send_anonymous_usage_stats': 'True', 'version_check': 'True', 'log_cache_events': 'False', 'introspect': 'True', 'target_path': 'None', 'printer_width': '80', 'indirect_selection': 'eager', 'no_print': 'None', 'debug': 'False', 'use_colors': 'True', 'invocation_command': 'dbt debug --profiles-dir .', 'use_experimental_parser': 'False', 'log_format': 'default', 'log_path': '/workspaces/microservicios-sistema-reservas/logs', 'partial_parse': 'True', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'quiet': 'False', 'write_json': 'True', 'profiles_dir': '.', 'fail_fast': 'False'}
+[0m13:12:03.747948 [info ] [MainThread]: dbt version: 1.7.0
+[0m13:12:03.748922 [info ] [MainThread]: python version: 3.12.1
+[0m13:12:03.749991 [info ] [MainThread]: python path: /usr/local/python/3.12.1/bin/python3
+[0m13:12:03.751222 [info ] [MainThread]: os info: Linux-6.8.0-1044-azure-x86_64-with-glibc2.39
+[0m13:12:03.999327 [info ] [MainThread]: Using profiles dir at .
+[0m13:12:04.000120 [info ] [MainThread]: Using profiles.yml file at ./profiles.yml
+[0m13:12:04.000774 [info ] [MainThread]: Using dbt_project.yml file at /workspaces/microservicios-sistema-reservas/dbt_project.yml
+[0m13:12:04.001590 [info ] [MainThread]: adapter type: postgres
+[0m13:12:04.002224 [info ] [MainThread]: adapter version: 1.7.0
+[0m13:12:04.100367 [info ] [MainThread]: Configuration:
+[0m13:12:04.101202 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m13:12:04.101826 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m13:12:04.102471 [info ] [MainThread]: Required dependencies:
+[0m13:12:04.103167 [debug] [MainThread]: Executing "git --help"
+[0m13:12:04.106702 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]\n           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]\n           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone      Clone a repository into a new directory\n   init       Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add        Add file contents to the index\n   mv         Move or rename a file, a directory, or a symlink\n   restore    Restore working tree files\n   rm         Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect     Use binary search to find the commit that introduced a bug\n   diff       Show changes between commits, commit and working tree, etc\n   grep       Print lines matching a pattern\n   log        Show commit logs\n   show       Show various types of objects\n   status     Show the working tree status\n\ngrow, mark and tweak your common history\n   backfill   Download missing objects in a partial clone\n   branch     List, create, or delete branches\n   commit     Record changes to the repository\n   merge      Join two or more development histories together\n   rebase     Reapply commits on top of another base tip\n   reset      Reset current HEAD to the specified state\n   switch     Switch branches\n   tag        Create, list, delete or verify tags\n\ncollaborate (see also: git help workflows)\n   fetch      Download objects and refs from another repository\n   pull       Fetch from and integrate with another repository or a local branch\n   push       Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m13:12:04.107765 [debug] [MainThread]: STDERR: "b''"
+[0m13:12:04.108633 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m13:12:04.109483 [info ] [MainThread]: Connection:
+[0m13:12:04.110347 [info ] [MainThread]:   host: ep-orange-sun-aiyh4lhb.c-4.us-east-1.aws.neon.tech
+[0m13:12:04.111252 [info ] [MainThread]:   port: 5432
+[0m13:12:04.112063 [info ] [MainThread]:   user: neondb_owner
+[0m13:12:04.112837 [info ] [MainThread]:   database: neondb
+[0m13:12:04.113457 [info ] [MainThread]:   schema: public
+[0m13:12:04.114041 [info ] [MainThread]:   connect_timeout: 10
+[0m13:12:04.114671 [info ] [MainThread]:   role: None
+[0m13:12:04.115266 [info ] [MainThread]:   search_path: None
+[0m13:12:04.115852 [info ] [MainThread]:   keepalives_idle: 0
+[0m13:12:04.116445 [info ] [MainThread]:   sslmode: require
+[0m13:12:04.117047 [info ] [MainThread]:   sslcert: None
+[0m13:12:04.117879 [info ] [MainThread]:   sslkey: None
+[0m13:12:04.118698 [info ] [MainThread]:   sslrootcert: None
+[0m13:12:04.119575 [info ] [MainThread]:   application_name: dbt
+[0m13:12:04.120445 [info ] [MainThread]:   retries: 1
+[0m13:12:04.121305 [info ] [MainThread]: Registered adapter: postgres=1.7.0
+[0m13:12:04.122509 [debug] [MainThread]: Acquiring new postgres connection 'debug'
+[0m13:12:04.123339 [debug] [MainThread]: Using postgres connection "debug"
+[0m13:12:04.124119 [debug] [MainThread]: On debug: select 1 as id
+[0m13:12:04.124854 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m13:12:04.207517 [debug] [MainThread]: Postgres adapter: Got a retryable error when attempting to open a postgres connection.
+1 attempts remaining. Retrying in 0 seconds.
+Error:
+connection to server at "ep-orange-sun-aiyh4lhb.c-4.us-east-1.aws.neon.tech" (54.86.249.90), port 5432 failed: ERROR:  password authentication failed for user 'neondb_owner'
+
+[0m13:12:04.254207 [debug] [MainThread]: Postgres adapter: Error running SQL: select 1 as id
+[0m13:12:04.255099 [debug] [MainThread]: Postgres adapter: Rolling back transaction.
+[0m13:12:04.258496 [debug] [MainThread]: On debug: No close available on handle
+[0m13:12:04.259429 [info ] [MainThread]:   Connection test: [[31mERROR[0m]
+
+[0m13:12:04.260446 [info ] [MainThread]: [31m1 check failed:[0m
+[0m13:12:04.261485 [info ] [MainThread]: dbt was unable to connect to the specified database.
+The database returned the following error:
+
+  >Database Error
+  connection to server at "ep-orange-sun-aiyh4lhb.c-4.us-east-1.aws.neon.tech" (98.91.36.187), port 5432 failed: ERROR:  password authentication failed for user 'neondb_owner'
+  
+
+Check your database credentials and try again. For more information, visit:
+https://docs.getdbt.com/docs/configure-your-profile
+
+
+[0m13:12:04.263230 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m13:12:04.264184 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7644ffdf24b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7644fd6a9700>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7644fd527500>]}
+[0m13:12:04.265226 [debug] [MainThread]: Flushing usage events
+[0m13:12:57.457594 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7e1c2e39a390>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7e1c2e4c2bd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7e1c2e39b680>]}
+
+
+============================== 13:12:57.493827 | d2f0ad62-df66-43f6-9bb2-eb3d47b36bd6 ==============================
+[0m13:12:57.493827 [info ] [MainThread]: Running with dbt=1.7.0
+[0m13:12:57.499613 [debug] [MainThread]: running dbt with arguments {'no_print': 'None', 'fail_fast': 'False', 'use_experimental_parser': 'False', 'send_anonymous_usage_stats': 'True', 'log_cache_events': 'False', 'cache_selected_only': 'False', 'use_colors': 'True', 'version_check': 'True', 'log_path': '/workspaces/microservicios-sistema-reservas/logs', 'static_parser': 'True', 'printer_width': '80', 'quiet': 'False', 'debug': 'False', 'invocation_command': 'dbt debug --profiles-dir .', 'introspect': 'True', 'profiles_dir': '.', 'partial_parse': 'True', 'target_path': 'None', 'write_json': 'True', 'indirect_selection': 'eager', 'log_format': 'default', 'warn_error': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])'}
+[0m13:12:57.508896 [info ] [MainThread]: dbt version: 1.7.0
+[0m13:12:57.513404 [info ] [MainThread]: python version: 3.12.1
+[0m13:12:57.519971 [info ] [MainThread]: python path: /usr/local/python/3.12.1/bin/python3
+[0m13:12:57.530340 [info ] [MainThread]: os info: Linux-6.8.0-1044-azure-x86_64-with-glibc2.39
+[0m13:12:57.808202 [info ] [MainThread]: Using profiles dir at .
+[0m13:12:57.809541 [info ] [MainThread]: Using profiles.yml file at ./profiles.yml
+[0m13:12:57.810561 [info ] [MainThread]: Using dbt_project.yml file at /workspaces/microservicios-sistema-reservas/dbt_project.yml
+[0m13:12:57.811810 [info ] [MainThread]: adapter type: postgres
+[0m13:12:57.812789 [info ] [MainThread]: adapter version: 1.7.0
+[0m13:12:57.914834 [info ] [MainThread]: Configuration:
+[0m13:12:57.915668 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m13:12:57.916326 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m13:12:57.916946 [info ] [MainThread]: Required dependencies:
+[0m13:12:57.917753 [debug] [MainThread]: Executing "git --help"
+[0m13:12:57.924034 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]\n           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]\n           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone      Clone a repository into a new directory\n   init       Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add        Add file contents to the index\n   mv         Move or rename a file, a directory, or a symlink\n   restore    Restore working tree files\n   rm         Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect     Use binary search to find the commit that introduced a bug\n   diff       Show changes between commits, commit and working tree, etc\n   grep       Print lines matching a pattern\n   log        Show commit logs\n   show       Show various types of objects\n   status     Show the working tree status\n\ngrow, mark and tweak your common history\n   backfill   Download missing objects in a partial clone\n   branch     List, create, or delete branches\n   commit     Record changes to the repository\n   merge      Join two or more development histories together\n   rebase     Reapply commits on top of another base tip\n   reset      Reset current HEAD to the specified state\n   switch     Switch branches\n   tag        Create, list, delete or verify tags\n\ncollaborate (see also: git help workflows)\n   fetch      Download objects and refs from another repository\n   pull       Fetch from and integrate with another repository or a local branch\n   push       Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m13:12:57.925382 [debug] [MainThread]: STDERR: "b''"
+[0m13:12:57.927506 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m13:12:57.929588 [info ] [MainThread]: Connection:
+[0m13:12:57.930976 [info ] [MainThread]:   host: ep-orange-sun-aiyh4lhb.c-4.us-east-1.aws.neon.tech
+[0m13:12:57.932062 [info ] [MainThread]:   port: 5432
+[0m13:12:57.932986 [info ] [MainThread]:   user: neondb_owner
+[0m13:12:57.933993 [info ] [MainThread]:   database: neondb
+[0m13:12:57.935163 [info ] [MainThread]:   schema: public
+[0m13:12:57.937718 [info ] [MainThread]:   connect_timeout: 10
+[0m13:12:57.938496 [info ] [MainThread]:   role: None
+[0m13:12:57.939846 [info ] [MainThread]:   search_path: None
+[0m13:12:57.940668 [info ] [MainThread]:   keepalives_idle: 0
+[0m13:12:57.941470 [info ] [MainThread]:   sslmode: require
+[0m13:12:57.942387 [info ] [MainThread]:   sslcert: None
+[0m13:12:57.943330 [info ] [MainThread]:   sslkey: None
+[0m13:12:57.944204 [info ] [MainThread]:   sslrootcert: None
+[0m13:12:57.944996 [info ] [MainThread]:   application_name: dbt
+[0m13:12:57.945647 [info ] [MainThread]:   retries: 1
+[0m13:12:57.946380 [info ] [MainThread]: Registered adapter: postgres=1.7.0
+[0m13:12:57.947351 [debug] [MainThread]: Acquiring new postgres connection 'debug'
+[0m13:12:57.948323 [debug] [MainThread]: Using postgres connection "debug"
+[0m13:12:57.949119 [debug] [MainThread]: On debug: select 1 as id
+[0m13:12:57.949690 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m13:12:58.025626 [debug] [MainThread]: SQL status: SELECT 1 in 0.0 seconds
+[0m13:12:58.027656 [debug] [MainThread]: On debug: Close
+[0m13:12:58.028663 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m13:12:58.029703 [info ] [MainThread]: [32mAll checks passed![0m
+[0m13:12:58.031508 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m13:12:58.032416 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7e1c2e4c2240>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7e1c2d343cb0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7e1c2d343d70>]}
+[0m13:12:58.033391 [debug] [MainThread]: Flushing usage events
+[0m13:13:10.500652 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7ac5b75670>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7ac5e225a0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7ac5b74980>]}
+
+
+============================== 13:13:10.507498 | 7d6ffd1a-1e92-4d9f-86bd-28db61ca5ba6 ==============================
+[0m13:13:10.507498 [info ] [MainThread]: Running with dbt=1.7.0
+[0m13:13:10.509488 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'log_format': 'default', 'use_colors': 'True', 'profiles_dir': '.', 'send_anonymous_usage_stats': 'True', 'cache_selected_only': 'False', 'invocation_command': 'dbt debug --profiles-dir .', 'write_json': 'True', 'partial_parse': 'True', 'warn_error': 'None', 'version_check': 'True', 'indirect_selection': 'eager', 'introspect': 'True', 'printer_width': '80', 'log_path': '/workspaces/microservicios-sistema-reservas/logs', 'target_path': 'None', 'debug': 'False', 'use_experimental_parser': 'False', 'quiet': 'False', 'fail_fast': 'False', 'no_print': 'None', 'log_cache_events': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])'}
+[0m13:13:10.511206 [info ] [MainThread]: dbt version: 1.7.0
+[0m13:13:10.512191 [info ] [MainThread]: python version: 3.12.1
+[0m13:13:10.513103 [info ] [MainThread]: python path: /usr/local/python/3.12.1/bin/python3
+[0m13:13:10.514071 [info ] [MainThread]: os info: Linux-6.8.0-1044-azure-x86_64-with-glibc2.39
+[0m13:13:10.680412 [info ] [MainThread]: Using profiles dir at .
+[0m13:13:10.681176 [info ] [MainThread]: Using profiles.yml file at ./profiles.yml
+[0m13:13:10.681778 [info ] [MainThread]: Using dbt_project.yml file at /workspaces/microservicios-sistema-reservas/dbt_project.yml
+[0m13:13:10.682537 [info ] [MainThread]: adapter type: postgres
+[0m13:13:10.683103 [info ] [MainThread]: adapter version: 1.7.0
+[0m13:13:10.781987 [info ] [MainThread]: Configuration:
+[0m13:13:10.782748 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m13:13:10.783346 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m13:13:10.783921 [info ] [MainThread]: Required dependencies:
+[0m13:13:10.784510 [debug] [MainThread]: Executing "git --help"
+[0m13:13:10.788255 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]\n           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]\n           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone      Clone a repository into a new directory\n   init       Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add        Add file contents to the index\n   mv         Move or rename a file, a directory, or a symlink\n   restore    Restore working tree files\n   rm         Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect     Use binary search to find the commit that introduced a bug\n   diff       Show changes between commits, commit and working tree, etc\n   grep       Print lines matching a pattern\n   log        Show commit logs\n   show       Show various types of objects\n   status     Show the working tree status\n\ngrow, mark and tweak your common history\n   backfill   Download missing objects in a partial clone\n   branch     List, create, or delete branches\n   commit     Record changes to the repository\n   merge      Join two or more development histories together\n   rebase     Reapply commits on top of another base tip\n   reset      Reset current HEAD to the specified state\n   switch     Switch branches\n   tag        Create, list, delete or verify tags\n\ncollaborate (see also: git help workflows)\n   fetch      Download objects and refs from another repository\n   pull       Fetch from and integrate with another repository or a local branch\n   push       Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m13:13:10.789317 [debug] [MainThread]: STDERR: "b''"
+[0m13:13:10.789934 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m13:13:10.790529 [info ] [MainThread]: Connection:
+[0m13:13:10.791112 [info ] [MainThread]:   host: ep-orange-sun-aiyh4lhb.c-4.us-east-1.aws.neon.tech
+[0m13:13:10.791771 [info ] [MainThread]:   port: 5432
+[0m13:13:10.792346 [info ] [MainThread]:   user: neondb_owner
+[0m13:13:10.792891 [info ] [MainThread]:   database: neondb
+[0m13:13:10.793467 [info ] [MainThread]:   schema: public
+[0m13:13:10.794010 [info ] [MainThread]:   connect_timeout: 10
+[0m13:13:10.794595 [info ] [MainThread]:   role: None
+[0m13:13:10.795158 [info ] [MainThread]:   search_path: None
+[0m13:13:10.795694 [info ] [MainThread]:   keepalives_idle: 0
+[0m13:13:10.796240 [info ] [MainThread]:   sslmode: require
+[0m13:13:10.796779 [info ] [MainThread]:   sslcert: None
+[0m13:13:10.797332 [info ] [MainThread]:   sslkey: None
+[0m13:13:10.797859 [info ] [MainThread]:   sslrootcert: None
+[0m13:13:10.798416 [info ] [MainThread]:   application_name: dbt
+[0m13:13:10.798948 [info ] [MainThread]:   retries: 1
+[0m13:13:10.799555 [info ] [MainThread]: Registered adapter: postgres=1.7.0
+[0m13:13:10.800346 [debug] [MainThread]: Acquiring new postgres connection 'debug'
+[0m13:13:10.800880 [debug] [MainThread]: Using postgres connection "debug"
+[0m13:13:10.801416 [debug] [MainThread]: On debug: select 1 as id
+[0m13:13:10.801920 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m13:13:10.872306 [debug] [MainThread]: SQL status: SELECT 1 in 0.0 seconds
+[0m13:13:10.873823 [debug] [MainThread]: On debug: Close
+[0m13:13:10.874474 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m13:13:10.875057 [info ] [MainThread]: [32mAll checks passed![0m
+[0m13:13:10.876178 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m13:13:10.876751 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7ac5baffb0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7ac60b59a0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7acb4d7bc0>]}
+[0m13:13:10.877373 [debug] [MainThread]: Flushing usage events
+[0m13:13:34.163700 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe60aa7e0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe60ab530>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe60aa900>]}
+
+
+============================== 13:13:34.170183 | b4b19fe7-cbc2-49f1-9506-ff9aafa097bb ==============================
+[0m13:13:34.170183 [info ] [MainThread]: Running with dbt=1.7.0
+[0m13:13:34.171825 [debug] [MainThread]: running dbt with arguments {'cache_selected_only': 'False', 'debug': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'fail_fast': 'False', 'use_experimental_parser': 'False', 'write_json': 'True', 'send_anonymous_usage_stats': 'True', 'log_format': 'default', 'no_print': 'None', 'static_parser': 'True', 'log_path': '/workspaces/microservicios-sistema-reservas/logs', 'version_check': 'True', 'printer_width': '80', 'indirect_selection': 'eager', 'invocation_command': 'dbt compile --profiles-dir .', 'log_cache_events': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'quiet': 'False', 'use_colors': 'True', 'target_path': 'None', 'profiles_dir': '.', 'introspect': 'True'}
+[0m13:13:34.514469 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': 'b4b19fe7-cbc2-49f1-9506-ff9aafa097bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe5366de0>]}
+[0m13:13:34.616961 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': 'b4b19fe7-cbc2-49f1-9506-ff9aafa097bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe61709b0>]}
+[0m13:13:34.618609 [info ] [MainThread]: Registered adapter: postgres=1.7.0
+[0m13:13:34.630813 [debug] [MainThread]: checksum: 8434eacd4ffdf0ca3ab22bf0e2d55b45306c9599613e842b959405abc489e606, vars: {}, profile: , target: , version: 1.7.0
+[0m13:13:34.632016 [info ] [MainThread]: Unable to do partial parsing because saved manifest not found. Starting full parse.
+[0m13:13:34.632981 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': 'b4b19fe7-cbc2-49f1-9506-ff9aafa097bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe4f00a70>]}
+[0m13:13:36.354897 [warn ] [MainThread]: [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.bi_hospital.data_marts
+[0m13:13:36.379490 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': 'b4b19fe7-cbc2-49f1-9506-ff9aafa097bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe4bfd460>]}
+[0m13:13:36.402434 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': 'b4b19fe7-cbc2-49f1-9506-ff9aafa097bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe4b9b440>]}
+[0m13:13:36.403552 [info ] [MainThread]: Found 4 models, 5 sources, 0 exposures, 0 metrics, 401 macros, 0 groups, 0 semantic models
+[0m13:13:36.404605 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'b4b19fe7-cbc2-49f1-9506-ff9aafa097bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe4b2b800>]}
+[0m13:13:36.411380 [info ] [MainThread]: 
+[0m13:13:36.416535 [debug] [MainThread]: Acquiring new postgres connection 'master'
+[0m13:13:36.422265 [debug] [ThreadPool]: Acquiring new postgres connection 'list_neondb_public_rolap'
+[0m13:13:36.434222 [debug] [ThreadPool]: Acquiring new postgres connection 'list_neondb_public_molap'
+[0m13:13:36.428174 [debug] [ThreadPool]: Acquiring new postgres connection 'list_neondb_public_holap'
+[0m13:13:36.443270 [debug] [ThreadPool]: Acquiring new postgres connection 'list_neondb_public'
+[0m13:13:36.474995 [debug] [ThreadPool]: Using postgres connection "list_neondb_public_holap"
+[0m13:13:36.470935 [debug] [ThreadPool]: Using postgres connection "list_neondb_public_rolap"
+[0m13:13:36.494518 [debug] [ThreadPool]: On list_neondb_public_rolap: BEGIN
+[0m13:13:36.491656 [debug] [ThreadPool]: Using postgres connection "list_neondb_public"
+[0m13:13:36.493000 [debug] [ThreadPool]: On list_neondb_public_holap: BEGIN
+[0m13:13:36.482958 [debug] [ThreadPool]: Using postgres connection "list_neondb_public_molap"
+[0m13:13:36.498313 [debug] [ThreadPool]: On list_neondb_public_molap: BEGIN
+[0m13:13:36.499252 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m13:13:36.496496 [debug] [ThreadPool]: On list_neondb_public: BEGIN
+[0m13:13:36.495479 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m13:13:36.497402 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m13:13:36.500805 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m13:13:36.582105 [debug] [ThreadPool]: SQL status: BEGIN in 0.0 seconds
+[0m13:13:36.583323 [debug] [ThreadPool]: Using postgres connection "list_neondb_public_rolap"
+[0m13:13:36.584397 [debug] [ThreadPool]: On list_neondb_public_rolap: /* {"app": "dbt", "dbt_version": "1.7.0", "profile_name": "bi_hospital", "target_name": "dev", "connection_name": "list_neondb_public_rolap"} */
+select
+      'neondb' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'public_rolap'
+    union all
+    select
+      'neondb' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'public_rolap'
+    union all
+    select
+      'neondb' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'public_rolap'
+  
+[0m13:13:36.592782 [debug] [ThreadPool]: SQL status: BEGIN in 0.0 seconds
+[0m13:13:36.593684 [debug] [ThreadPool]: Using postgres connection "list_neondb_public_molap"
+[0m13:13:36.594728 [debug] [ThreadPool]: On list_neondb_public_molap: /* {"app": "dbt", "dbt_version": "1.7.0", "profile_name": "bi_hospital", "target_name": "dev", "connection_name": "list_neondb_public_molap"} */
+select
+      'neondb' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'public_molap'
+    union all
+    select
+      'neondb' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'public_molap'
+    union all
+    select
+      'neondb' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'public_molap'
+  
+[0m13:13:36.595804 [debug] [ThreadPool]: SQL status: BEGIN in 0.0 seconds
+[0m13:13:36.596683 [debug] [ThreadPool]: Using postgres connection "list_neondb_public"
+[0m13:13:36.597605 [debug] [ThreadPool]: On list_neondb_public: /* {"app": "dbt", "dbt_version": "1.7.0", "profile_name": "bi_hospital", "target_name": "dev", "connection_name": "list_neondb_public"} */
+select
+      'neondb' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'public'
+    union all
+    select
+      'neondb' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'public'
+    union all
+    select
+      'neondb' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'public'
+  
+[0m13:13:36.598808 [debug] [ThreadPool]: SQL status: BEGIN in 0.0 seconds
+[0m13:13:36.599827 [debug] [ThreadPool]: Using postgres connection "list_neondb_public_holap"
+[0m13:13:36.600755 [debug] [ThreadPool]: On list_neondb_public_holap: /* {"app": "dbt", "dbt_version": "1.7.0", "profile_name": "bi_hospital", "target_name": "dev", "connection_name": "list_neondb_public_holap"} */
+select
+      'neondb' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'public_holap'
+    union all
+    select
+      'neondb' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'public_holap'
+    union all
+    select
+      'neondb' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'public_holap'
+  
+[0m13:13:36.642808 [debug] [ThreadPool]: SQL status: SELECT 0 in 0.0 seconds
+[0m13:13:36.645356 [debug] [ThreadPool]: On list_neondb_public_holap: ROLLBACK
+[0m13:13:36.646105 [debug] [ThreadPool]: SQL status: SELECT 0 in 0.0 seconds
+[0m13:13:36.646799 [debug] [ThreadPool]: SQL status: SELECT 10 in 0.0 seconds
+[0m13:13:36.647627 [debug] [ThreadPool]: SQL status: SELECT 0 in 0.0 seconds
+[0m13:13:36.649796 [debug] [ThreadPool]: On list_neondb_public_rolap: ROLLBACK
+[0m13:13:36.652124 [debug] [ThreadPool]: On list_neondb_public: ROLLBACK
+[0m13:13:36.653590 [debug] [ThreadPool]: On list_neondb_public_molap: ROLLBACK
+[0m13:13:36.655232 [debug] [ThreadPool]: On list_neondb_public_holap: Close
+[0m13:13:36.660948 [debug] [ThreadPool]: On list_neondb_public_rolap: Close
+[0m13:13:36.661611 [debug] [ThreadPool]: On list_neondb_public_molap: Close
+[0m13:13:36.662636 [debug] [ThreadPool]: On list_neondb_public: Close
+[0m13:13:36.670657 [debug] [MainThread]: Using postgres connection "master"
+[0m13:13:36.671263 [debug] [MainThread]: On master: BEGIN
+[0m13:13:36.671811 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m13:13:36.745671 [debug] [MainThread]: SQL status: BEGIN in 0.0 seconds
+[0m13:13:36.746501 [debug] [MainThread]: Using postgres connection "master"
+[0m13:13:36.747116 [debug] [MainThread]: On master: /* {"app": "dbt", "dbt_version": "1.7.0", "profile_name": "bi_hospital", "target_name": "dev", "connection_name": "master"} */
+with relation as (
+        select
+            pg_rewrite.ev_class as class,
+            pg_rewrite.oid as id
+        from pg_rewrite
+    ),
+    class as (
+        select
+            oid as id,
+            relname as name,
+            relnamespace as schema,
+            relkind as kind
+        from pg_class
+    ),
+    dependency as (
+        select distinct
+            pg_depend.objid as id,
+            pg_depend.refobjid as ref
+        from pg_depend
+    ),
+    schema as (
+        select
+            pg_namespace.oid as id,
+            pg_namespace.nspname as name
+        from pg_namespace
+        where nspname != 'information_schema' and nspname not like 'pg\_%'
+    ),
+    referenced as (
+        select
+            relation.id AS id,
+            referenced_class.name ,
+            referenced_class.schema ,
+            referenced_class.kind
+        from relation
+        join class as referenced_class on relation.class=referenced_class.id
+        where referenced_class.kind in ('r', 'v', 'm')
+    ),
+    relationships as (
+        select
+            referenced.name as referenced_name,
+            referenced.schema as referenced_schema_id,
+            dependent_class.name as dependent_name,
+            dependent_class.schema as dependent_schema_id,
+            referenced.kind as kind
+        from referenced
+        join dependency on referenced.id=dependency.id
+        join class as dependent_class on dependency.ref=dependent_class.id
+        where
+            (referenced.name != dependent_class.name or
+             referenced.schema != dependent_class.schema)
+    )
+
+    select
+        referenced_schema.name as referenced_schema,
+        relationships.referenced_name as referenced_name,
+        dependent_schema.name as dependent_schema,
+        relationships.dependent_name as dependent_name
+    from relationships
+    join schema as dependent_schema on relationships.dependent_schema_id=dependent_schema.id
+    join schema as referenced_schema on relationships.referenced_schema_id=referenced_schema.id
+    group by referenced_schema, referenced_name, dependent_schema, dependent_name
+    order by referenced_schema, referenced_name, dependent_schema, dependent_name;
+[0m13:13:36.771296 [debug] [MainThread]: SQL status: SELECT 6 in 0.0 seconds
+[0m13:13:36.775154 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'b4b19fe7-cbc2-49f1-9506-ff9aafa097bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe4ff91f0>]}
+[0m13:13:36.775817 [debug] [MainThread]: On master: ROLLBACK
+[0m13:13:36.783723 [debug] [MainThread]: On master: Close
+[0m13:13:36.784954 [info ] [MainThread]: Concurrency: 4 threads (target='dev')
+[0m13:13:36.785687 [info ] [MainThread]: 
+[0m13:13:36.790078 [debug] [Thread-1 (]: Began running node model.bi_hospital.molap_cubo_epidemiologico
+[0m13:13:36.790776 [debug] [Thread-2 (]: Began running node model.bi_hospital.rolap_casos_epidemiologicos
+[0m13:13:36.792102 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly list_neondb_public, now model.bi_hospital.molap_cubo_epidemiologico)
+[0m13:13:36.797460 [debug] [Thread-1 (]: Began compiling node model.bi_hospital.molap_cubo_epidemiologico
+[0m13:13:36.794089 [debug] [Thread-2 (]: Re-using an available connection from the pool (formerly list_neondb_public_molap, now model.bi_hospital.rolap_casos_epidemiologicos)
+[0m13:13:36.804396 [debug] [Thread-2 (]: Began compiling node model.bi_hospital.rolap_casos_epidemiologicos
+[0m13:13:36.812430 [debug] [Thread-1 (]: Writing injected SQL for node "model.bi_hospital.molap_cubo_epidemiologico"
+[0m13:13:36.818495 [debug] [Thread-1 (]: Timing info for model.bi_hospital.molap_cubo_epidemiologico (compile): 13:13:36.798103 => 13:13:36.818048
+[0m13:13:36.817003 [debug] [Thread-2 (]: Writing injected SQL for node "model.bi_hospital.rolap_casos_epidemiologicos"
+[0m13:13:36.820535 [debug] [Thread-2 (]: Timing info for model.bi_hospital.rolap_casos_epidemiologicos (compile): 13:13:36.812871 => 13:13:36.820119
+[0m13:13:36.821349 [debug] [Thread-2 (]: Began executing node model.bi_hospital.rolap_casos_epidemiologicos
+[0m13:13:36.819323 [debug] [Thread-1 (]: Began executing node model.bi_hospital.molap_cubo_epidemiologico
+[0m13:13:36.823293 [debug] [Thread-1 (]: Timing info for model.bi_hospital.molap_cubo_epidemiologico (execute): 13:13:36.822862 => 13:13:36.822876
+[0m13:13:36.822312 [debug] [Thread-2 (]: Timing info for model.bi_hospital.rolap_casos_epidemiologicos (execute): 13:13:36.821867 => 13:13:36.821891
+[0m13:13:36.826458 [debug] [Thread-2 (]: Finished running node model.bi_hospital.rolap_casos_epidemiologicos
+[0m13:13:36.824879 [debug] [Thread-1 (]: Finished running node model.bi_hospital.molap_cubo_epidemiologico
+[0m13:13:36.827879 [debug] [Thread-4 (]: Began running node model.bi_hospital.holap_epidemiologia_hibrida
+[0m13:13:36.829090 [debug] [Thread-4 (]: Re-using an available connection from the pool (formerly list_neondb_public_holap, now model.bi_hospital.holap_epidemiologia_hibrida)
+[0m13:13:36.830165 [debug] [Thread-4 (]: Began compiling node model.bi_hospital.holap_epidemiologia_hibrida
+[0m13:13:36.835792 [debug] [Thread-4 (]: Writing injected SQL for node "model.bi_hospital.holap_epidemiologia_hibrida"
+[0m13:13:36.837031 [debug] [Thread-4 (]: Timing info for model.bi_hospital.holap_epidemiologia_hibrida (compile): 13:13:36.830716 => 13:13:36.836617
+[0m13:13:36.837882 [debug] [Thread-4 (]: Began executing node model.bi_hospital.holap_epidemiologia_hibrida
+[0m13:13:36.838836 [debug] [Thread-4 (]: Timing info for model.bi_hospital.holap_epidemiologia_hibrida (execute): 13:13:36.838429 => 13:13:36.838440
+[0m13:13:36.840034 [debug] [Thread-4 (]: Finished running node model.bi_hospital.holap_epidemiologia_hibrida
+[0m13:13:36.841035 [debug] [Thread-2 (]: Began running node model.bi_hospital.comparacion_olap
+[0m13:13:36.841906 [debug] [Thread-2 (]: Re-using an available connection from the pool (formerly model.bi_hospital.rolap_casos_epidemiologicos, now model.bi_hospital.comparacion_olap)
+[0m13:13:36.842525 [debug] [Thread-2 (]: Began compiling node model.bi_hospital.comparacion_olap
+[0m13:13:36.849006 [debug] [Thread-2 (]: Writing injected SQL for node "model.bi_hospital.comparacion_olap"
+[0m13:13:36.850312 [debug] [Thread-2 (]: Timing info for model.bi_hospital.comparacion_olap (compile): 13:13:36.842901 => 13:13:36.849846
+[0m13:13:36.851342 [debug] [Thread-2 (]: Began executing node model.bi_hospital.comparacion_olap
+[0m13:13:36.852489 [debug] [Thread-2 (]: Timing info for model.bi_hospital.comparacion_olap (execute): 13:13:36.851979 => 13:13:36.851989
+[0m13:13:36.854292 [debug] [Thread-2 (]: Finished running node model.bi_hospital.comparacion_olap
+[0m13:13:36.857542 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m13:13:36.858090 [debug] [MainThread]: Connection 'list_neondb_public_rolap' was properly closed.
+[0m13:13:36.859027 [debug] [MainThread]: Connection 'model.bi_hospital.holap_epidemiologia_hibrida' was properly closed.
+[0m13:13:36.859780 [debug] [MainThread]: Connection 'model.bi_hospital.comparacion_olap' was properly closed.
+[0m13:13:36.860543 [debug] [MainThread]: Connection 'model.bi_hospital.molap_cubo_epidemiologico' was properly closed.
+[0m13:13:36.862827 [debug] [MainThread]: Command end result
+[0m13:13:36.870281 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe6157e00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe479d190>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x79afe60aa3f0>]}
+[0m13:13:36.870893 [debug] [MainThread]: Flushing usage events

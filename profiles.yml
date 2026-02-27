@@ -5,7 +5,7 @@ bi_hospital:
       type: postgres
       host: ep-orange-sun-aiyh4lhb.c-4.us-east-1.aws.neon.tech
       user: neondb_owner
-      password: 4fSfUg1Xg6fM
+      password: npg_jr5fHxYAJU2S
       port: 5432
       dbname: neondb
       schema: public
