@@ -1,0 +1,98 @@
+version: 2
+
+sources:
+  - name: public
+    description: "Data Warehouse Star Schema - Neon PostgreSQL"
+    database: neondb
+    schema: public
+    tables:
+      - name: fact_atenciones
+        description: "Tabla de hechos con atenciones médicas"
+        columns:
+          - name: atencion_sk
+            description: "Surrogate key de la atención"
+          - name: tiempo_sk
+            description: "FK a dim_tiempo"
+          - name: paciente_sk
+            description: "FK a dim_paciente"
+          - name: diagnostico_principal_sk
+            description: "FK a dim_diagnostico"
+          - name: sucursal_sk
+            description: "FK a dim_sucursal"
+          - name: costo_total_bs
+            description: "Costo total en bolivianos"
+          - name: reingreso_30d
+            description: "Bandera de reingreso en 30 días"
+            
+      - name: dim_tiempo
+        description: "Dimensión temporal"
+      - name: dim_paciente
+        description: "Dimensión de pacientes"
+      - name: dim_diagnostico
+        description: "Dimensión de diagnósticos CIE-10"
+      - name: dim_sucursal
+        description: "Dimensión de hospitales/sucursales"
+
+models:
+  - name: rolap_casos_epidemiologicos
+    description: |
+      🟢 ROLAP - Vista en tiempo real sin agregaciones
+      
+      **Ventajas:**
+      - Datos siempre actualizados
+      - Sin duplicación de almacenamiento
+      - Consultas flexibles sin límites
+      
+      **Desventajas:**
+      - Consultas más lentas con grandes volúmenes
+      - JOIN en cada query
+      - Requiere optimización de índices
+      
+      **Caso de uso:** Análisis exploratorios, reportes detallados
+    columns:
+      - name: atencion_sk
+        description: "ID único de atención (granularidad más fina)"
+      - name: tipo_olap
+        description: "Identificador del tipo de implementación OLAP"
+        
+  - name: molap_cubo_epidemiologico
+    description: |
+      🔵 MOLAP - Cubo precalculado con agregaciones
+      
+      **Ventajas:**
+      - Consultas ultra-rápidas (milisegundos)
+      - Sin JOINs en tiempo de consulta
+      - Drill-down inmediato
+      
+      **Desventajas:**
+      - Requiere actualización explícita (dbt run)
+      - Duplicación de datos
+      - Espacio adicional (~500MB para 50k registros)
+      
+      **Caso de uso:** Dashboards ejecutivos, KPIs en tiempo real
+    columns:
+      - name: total_casos
+        description: "Cantidad de atenciones agregadas"
+      - name: cubo_build_timestamp
+        description: "Timestamp de construcción del cubo"
+        
+  - name: holap_epidemiologia_hibrida
+    description: |
+      🟣 HOLAP - Estrategia híbrida (MOLAP + ROLAP)
+      
+      **Ventajas:**
+      - Dashboards rápidos (MOLAP)
+      - Drill-down detallado cuando necesario (ROLAP)
+      - Balance entre velocidad y flexibilidad
+      
+      **Desventajas:**
+      - Complejidad de gestión
+      - Requiere lógica adicional en BI tool
+      - Datasets heterogéneos
+      
+      **Caso de uso:** Aplicaciones con navegación jerárquica de datos
+    columns:
+      - name: nivel_detalle
+        description: "'AGREGADO' para MOLAP, 'DETALLE' para ROLAP"
+      - name: tipo_olap
+        description: "Siempre 'HOLAP'"

@@ -1,0 +1,33 @@
+name: 'bi_clinico'
+version: '1.0.0'
+config-version: 2
+
+profile: 'bi_clinico'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  bi_clinico:
+    +materialized: view
+    data_marts:
+      +schema: data_marts
+    olap:
+      rolap:
+        +materialized: view
+        +schema: rolap
+      molap:
+        +materialized: table
+        +schema: molap
+      holap:
+        +materialized: view
+        +schema: holap

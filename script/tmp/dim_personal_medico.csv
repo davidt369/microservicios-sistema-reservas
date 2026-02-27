@@ -1,0 +1,1000 @@
+cls1,1,1,"Dr. Carlos Vargas Mercado","Anestesiología","Médico General","III Nivel","COLMED-SC-3171",6
+2,1,2,"Lic. Hugo Quispe Vargas","Neurología","Técnico Sanitario","I Nivel","COLMED-LP-6443",38
+3,1,3,"Dr. María Rocha Salvatierra","Dermatología","Médico Especialista","III Nivel","COLMED-BE-7698",4
+4,1,4,"Dra. Raúl Mercado Nina","Dermatología","Médico Especialista","I Nivel","COLMED-SC-1543",30
+5,1,5,"Dra. Hugo Ticona Mercado","Medicina Interna","Cirujano","I Nivel","COLMED-TJ-1624",15
+6,1,6,"Dra. Laura Mendoza Pinto","Ginecología y Obstetricia","Médico Especialista","III Nivel","COLMED-LP-9900",11
+7,1,7,"Lic. Ana Arce Nina","Dermatología","Técnico Sanitario","III Nivel","COLMED-OR-6045",19
+8,1,8,"Lic. Carlos Quispe Pinto","Ginecología y Obstetricia","Técnico Sanitario","I Nivel","COLMED-TJ-2260",31
+9,1,9,"Dra. Ana Mamani Choque","Medicina General","Cirujano","II Nivel","COLMED-CH-6895",35
+10,1,10,"Lic. Silvia Aguilar Choque","Traumatología","Enfermera","I Nivel","COLMED-SC-2230",5
+11,1,11,"Dr. Juan Flores Rojas","Pediatría","Médico General","II Nivel","COLMED-TJ-1617",5
+12,1,12,"Dra. Carlos Salvatierra Aguilar","Medicina General","Médico General","II Nivel","COLMED-TJ-4628",32
+13,1,13,"Dra. Raúl Pinto Vaca","Urología","Médico Especialista","I Nivel","COLMED-CB-7116",37
+14,1,14,"Dr. Marcos Ticona Condori","Urología","Médico General","I Nivel","COLMED-TJ-9223",13
+15,1,15,"Dra. Laura Vaca Vaca","Ginecología y Obstetricia","Médico Residente","I Nivel","COLMED-OR-6462",7
+16,1,16,"Dr. Hugo Quispe Salvatierra","Ginecología y Obstetricia","Médico Especialista","III Nivel","COLMED-TJ-2725",2
+17,1,17,"Lic. Carlos Salvatierra Nina","Ginecología y Obstetricia","Enfermera Jefe","III Nivel","COLMED-OR-8783",24
+18,1,18,"Dra. José Flores Nina","Urología","Médico General","II Nivel","COLMED-BE-7747",22
+19,1,19,"Dra. Silvia Arce Nina","Cardiología","Médico Residente","I Nivel","COLMED-LP-6291",20
+20,1,20,"Lic. Ana Rocha Vaca","Urología","Enfermera Jefe","I Nivel","COLMED-SC-5437",3
+21,1,21,"Dra. Carlos Zárate Vaca","Oftalmología","Médico General","I Nivel","COLMED-BE-4810",21
+22,1,22,"Dr. Ana Choque Salvatierra","Urología","Médico Residente","I Nivel","COLMED-LP-8632",37
+23,1,23,"Dr. Silvia Choque Salvatierra","Cardiología","Médico General","II Nivel","COLMED-PA-1172",9
+24,1,24,"Lic. Marcos Condori Pérez","Endocrinología","Enfermera Jefe","III Nivel","COLMED-LP-2855",5
+25,1,25,"Dr. Laura Mendoza Vaca","Neurología","Médico Residente","III Nivel","COLMED-TJ-5245",5
+26,1,26,"Dr. Rosa Mercado Choque","Medicina Interna","Cirujano","I Nivel","COLMED-PA-8192",27
+27,1,27,"Lic. Rosa Mamani Vaca","Dermatología","Técnico Sanitario","III Nivel","COLMED-CB-8733",10
+28,1,28,"Dra. Martha Mendoza Condori","Medicina General","Médico Especialista","III Nivel","COLMED-CB-9438",29
+29,1,29,"Dra. Luis Rojas Ticona","Neurología","Médico Especialista","III Nivel","COLMED-CH-4004",19
+30,1,30,"Dr. Patricia Pinto Pérez","Pediatría","Médico General","I Nivel","COLMED-CB-3106",26
+31,1,31,"Lic. Javier Salvatierra Quispe","Neurología","Técnico Sanitario","II Nivel","COLMED-SC-8142",9
+32,1,32,"Lic. Hugo Ticona Nina","Medicina General","Enfermera Jefe","II Nivel","COLMED-BE-2106",15
+33,1,33,"Lic. Carmen Flores Zárate","Medicina General","Enfermera","III Nivel","COLMED-TJ-2126",14
+34,1,34,"Dr. Marcos Flores Condori","Endocrinología","Cirujano","I Nivel","COLMED-PO-1801",3
+35,1,35,"Lic. Javier Pinto Nina","Urología","Técnico Sanitario","II Nivel","COLMED-BE-3484",6
+36,1,36,"Dr. Carlos Flores Aguilar","Medicina General","Médico Especialista","II Nivel","COLMED-LP-2440",26
+37,1,37,"Dra. Fernando Flores Salvatierra","Cirugía General","Médico Especialista","II Nivel","COLMED-CB-7341",34
+38,1,38,"Dr. Raúl Zárate Rojas","Medicina Interna","Cirujano","III Nivel","COLMED-BE-5164",17
+39,1,39,"Lic. Raúl Mendoza Nina","Medicina Interna","Técnico Sanitario","I Nivel","COLMED-SC-9568",13
+40,1,40,"Dra. Patricia Mercado Rojas","Dermatología","Cirujano","III Nivel","COLMED-TJ-1199",22
+41,1,41,"Lic. Ana Rojas Nina","Cardiología","Técnico Sanitario","III Nivel","COLMED-CB-9869",15
+42,1,42,"Lic. María Mamani Choque","Cirugía General","Técnico Sanitario","II Nivel","COLMED-LP-8675",5
+43,1,43,"Dra. Laura Rojas Quispe","Pediatría","Médico General","I Nivel","COLMED-TJ-7400",34
+44,1,44,"Dr. Javier Rojas Mendoza","Oftalmología","Médico Especialista","I Nivel","COLMED-CH-8306",6
+45,1,45,"Dra. Marcos Vaca Arce","Endocrinología","Médico Especialista","I Nivel","COLMED-LP-7513",7
+46,1,46,"Dra. Silvia Pinto Rocha","Medicina Interna","Cirujano","II Nivel","COLMED-CB-3556",29
+47,1,47,"Dra. José Ticona Arce","Cardiología","Médico General","II Nivel","COLMED-LP-2080",29
+48,1,48,"Dra. Silvia Vargas Pinto","Oftalmología","Médico Especialista","I Nivel","COLMED-TJ-2698",2
+49,1,49,"Dra. Hugo Pérez Aguilar","Cardiología","Médico Especialista","II Nivel","COLMED-TJ-8568",1
+50,1,50,"Lic. Carlos Mercado Arce","Neurología","Técnico Sanitario","III Nivel","COLMED-LP-7890",33
+51,1,51,"Lic. Martha Ticona Mendoza","Traumatología","Técnico Sanitario","III Nivel","COLMED-PA-2739",6
+52,1,52,"Lic. Martha Gutiérrez Salvatierra","Urología","Técnico Sanitario","II Nivel","COLMED-CB-2119",24
+53,1,53,"Dr. Juan Flores Arce","Medicina General","Médico General","I Nivel","COLMED-CH-7378",37
+54,1,54,"Dr. María Pinto Ticona","Anestesiología","Médico Especialista","III Nivel","COLMED-CB-4038",3
+55,1,55,"Lic. Luis Gutiérrez Mamani","Dermatología","Técnico Sanitario","I Nivel","COLMED-OR-4157",13
+56,1,56,"Dra. Laura Choque Condori","Urología","Cirujano","II Nivel","COLMED-TJ-7953",15
+57,1,57,"Dra. Carlos Condori Quispe","Anestesiología","Cirujano","I Nivel","COLMED-TJ-9569",4
+58,1,58,"Lic. Raúl Rocha Salvatierra","Traumatología","Enfermera","III Nivel","COLMED-CB-3379",23
+59,1,59,"Lic. Carmen Rocha Rojas","Ginecología y Obstetricia","Técnico Sanitario","II Nivel","COLMED-LP-3863",33
+60,1,60,"Lic. Ana Nina Rojas","Anestesiología","Enfermera","III Nivel","COLMED-LP-1761",35
+61,1,61,"Dra. Ana Arce Flores","Oftalmología","Médico Especialista","I Nivel","COLMED-TJ-4077",23
+62,1,62,"Dra. Ana Flores Pérez","Cardiología","Cirujano","I Nivel","COLMED-PA-3984",13
+63,1,63,"Lic. José Mendoza Rocha","Dermatología","Enfermera","III Nivel","COLMED-SC-2621",3
+64,1,64,"Dr. Juan Rocha Nina","Dermatología","Médico Residente","I Nivel","COLMED-CB-5285",33
+65,1,65,"Lic. Raúl Condori Vaca","Anestesiología","Enfermera Jefe","III Nivel","COLMED-CB-7394",33
+66,1,66,"Lic. Luis Ticona Quispe","Anestesiología","Enfermera Jefe","I Nivel","COLMED-TJ-9321",24
+67,1,67,"Dra. Raúl Zárate Nina","Endocrinología","Médico General","III Nivel","COLMED-PO-3174",33
+68,1,68,"Dr. Raúl Zárate Vaca","Cardiología","Cirujano","I Nivel","COLMED-SC-9567",40
+69,1,69,"Dr. Daniela Zárate Pinto","Neurología","Médico General","III Nivel","COLMED-OR-3376",17
+70,1,70,"Lic. Carlos Gutiérrez Vaca","Cirugía General","Técnico Sanitario","III Nivel","COLMED-PO-8282",25
+71,1,71,"Dra. Javier Pinto Gutiérrez","Cirugía General","Cirujano","II Nivel","COLMED-PA-9553",23
+72,1,72,"Dra. José Mendoza Vargas","Urología","Médico General","I Nivel","COLMED-OR-5453",36
+73,1,73,"Dr. Ana Vaca Rojas","Pediatría","Cirujano","II Nivel","COLMED-SC-6186",1
+74,1,74,"Lic. Rosa Mendoza Rojas","Ginecología y Obstetricia","Técnico Sanitario","III Nivel","COLMED-LP-1484",29
+75,1,75,"Dr. Fernando Rocha Gutiérrez","Traumatología","Médico Especialista","I Nivel","COLMED-LP-9488",33
+76,1,76,"Dra. Carlos Mamani Pinto","Cardiología","Médico General","I Nivel","COLMED-TJ-6897",18
+77,1,77,"Lic. Marcos Rojas Flores","Traumatología","Técnico Sanitario","I Nivel","COLMED-CB-3605",22
+78,1,78,"Dra. Carmen Gutiérrez Salvatierra","Cirugía General","Médico Residente","II Nivel","COLMED-BE-4172",31
+79,1,79,"Dra. Pedro Mamani Nina","Anestesiología","Médico Especialista","II Nivel","COLMED-PO-8724",9
+80,1,80,"Dr. Laura Arce Salvatierra","Cardiología","Médico Especialista","II Nivel","COLMED-LP-6813",38
+81,1,81,"Dr. Pedro Rojas Vargas","Pediatría","Cirujano","II Nivel","COLMED-PA-9373",23
+82,1,82,"Dra. Juan Quispe Mercado","Oftalmología","Cirujano","II Nivel","COLMED-CB-7274",32
+83,1,83,"Lic. Rosa Mamani Zárate","Endocrinología","Enfermera Jefe","III Nivel","COLMED-BE-6336",6
+84,1,84,"Lic. Marcos Quispe Quispe","Anestesiología","Enfermera Jefe","III Nivel","COLMED-PO-3781",7
+85,1,85,"Dra. Marcos Salvatierra Choque","Dermatología","Médico General","III Nivel","COLMED-PA-8880",4
+86,1,86,"Dra. Fernando Zárate Vargas","Medicina General","Médico Residente","III Nivel","COLMED-CB-9674",39
+87,1,87,"Dr. Javier Gutiérrez Condori","Dermatología","Médico General","I Nivel","COLMED-OR-4724",26
+88,1,88,"Lic. Fernando Pinto Condori","Oftalmología","Enfermera","I Nivel","COLMED-LP-1614",25
+89,1,89,"Lic. Fernando Gutiérrez Condori","Cardiología","Técnico Sanitario","I Nivel","COLMED-TJ-5495",26
+90,1,90,"Lic. Silvia Condori Arce","Endocrinología","Enfermera","I Nivel","COLMED-PO-4692",39
+91,1,91,"Dr. Ana Salvatierra Nina","Cirugía General","Cirujano","III Nivel","COLMED-PA-1376",40
+92,1,92,"Lic. Ana Mercado Mamani","Neurología","Enfermera","II Nivel","COLMED-CH-6691",2
+93,1,93,"Lic. Ana Condori Pinto","Dermatología","Técnico Sanitario","II Nivel","COLMED-CH-8060",39
+94,1,94,"Lic. Ana Arce Pinto","Pediatría","Enfermera Jefe","II Nivel","COLMED-PA-4313",17
+95,1,95,"Lic. Javier Vargas Nina","Traumatología","Enfermera","I Nivel","COLMED-OR-7785",29
+96,1,96,"Lic. Silvia Rocha Gutiérrez","Cardiología","Enfermera","I Nivel","COLMED-PO-3691",37
+97,1,97,"Lic. Martha Nina Vargas","Ginecología y Obstetricia","Técnico Sanitario","II Nivel","COLMED-CB-4203",35
+98,1,98,"Dra. Ana Vargas Mercado","Medicina Interna","Cirujano","I Nivel","COLMED-SC-5832",2
+99,1,99,"Lic. Rosa Pérez Salvatierra","Medicina Interna","Enfermera","I Nivel","COLMED-PO-1991",2
+100,1,100,"Lic. Patricia Nina Arce","Medicina General","Enfermera Jefe","III Nivel","COLMED-PO-9287",3
+101,1,101,"Dra. Laura Mamani Ticona","Traumatología","Cirujano","I Nivel","COLMED-BE-4749",19
+102,1,102,"Dra. Fernando Rojas Flores","Cardiología","Cirujano","I Nivel","COLMED-TJ-4453",38
+103,1,103,"Dr. Javier Choque Rojas","Dermatología","Médico Residente","III Nivel","COLMED-CB-7404",21
+104,1,104,"Lic. Daniela Mendoza Mamani","Cardiología","Enfermera Jefe","III Nivel","COLMED-TJ-6928",38
+105,1,105,"Dra. Jorge Rocha Vargas","Dermatología","Médico General","I Nivel","COLMED-PA-6690",25
+106,1,106,"Dr. Pedro Vargas Nina","Medicina General","Médico General","II Nivel","COLMED-LP-9373",22
+107,1,107,"Lic. Pedro Salvatierra Vaca","Cirugía General","Enfermera","II Nivel","COLMED-PA-9608",18
+108,1,108,"Dra. Laura Vargas Nina","Endocrinología","Médico Especialista","III Nivel","COLMED-PA-3310",12
+109,1,109,"Dra. Patricia Arce Flores","Cirugía General","Cirujano","I Nivel","COLMED-LP-1855",29
+110,1,110,"Dr. Laura Flores Zárate","Oftalmología","Médico Residente","I Nivel","COLMED-SC-9873",22
+111,1,111,"Lic. Marcos Arce Arce","Ginecología y Obstetricia","Técnico Sanitario","II Nivel","COLMED-TJ-1324",24
+112,1,112,"Lic. Jorge Nina Aguilar","Dermatología","Técnico Sanitario","II Nivel","COLMED-CH-8030",33
+113,1,113,"Dra. José Pérez Nina","Pediatría","Médico Residente","III Nivel","COLMED-TJ-2661",30
+114,1,114,"Dr. Carlos Mercado Pinto","Pediatría","Médico Residente","I Nivel","COLMED-CB-4878",13
+115,1,115,"Dra. Hugo Vaca Rocha","Traumatología","Médico General","III Nivel","COLMED-SC-8865",33
+116,1,116,"Lic. José Salvatierra Arce","Anestesiología","Enfermera Jefe","III Nivel","COLMED-LP-6896",37
+117,1,117,"Lic. Luis Gutiérrez Pérez","Cirugía General","Técnico Sanitario","II Nivel","COLMED-SC-8504",31
+118,1,118,"Dra. Fernando Arce Gutiérrez","Cirugía General","Médico General","I Nivel","COLMED-CB-7144",25
+119,1,119,"Dr. Marcos Quispe Vaca","Dermatología","Médico Especialista","I Nivel","COLMED-CH-4052",14
+120,1,120,"Lic. Hugo Condori Aguilar","Cirugía General","Enfermera Jefe","I Nivel","COLMED-BE-2550",36
+121,1,121,"Lic. Daniela Flores Salvatierra","Pediatría","Enfermera","II Nivel","COLMED-OR-2435",33
+122,1,122,"Dr. Jorge Vaca Vargas","Traumatología","Médico General","I Nivel","COLMED-LP-3923",15
+123,1,123,"Dra. Jorge Mercado Flores","Neurología","Médico Residente","II Nivel","COLMED-CB-3327",28
+124,1,124,"Dr. José Choque Gutiérrez","Pediatría","Médico Residente","III Nivel","COLMED-CH-5513",40
+125,1,125,"Lic. José Mendoza Rocha","Anestesiología","Enfermera","II Nivel","COLMED-CB-4684",24
+126,1,126,"Lic. Luis Nina Condori","Oftalmología","Técnico Sanitario","III Nivel","COLMED-CH-7797",28
+127,1,127,"Dr. Hugo Condori Pinto","Medicina Interna","Médico Especialista","III Nivel","COLMED-SC-1255",15
+128,1,128,"Lic. Ana Choque Aguilar","Dermatología","Técnico Sanitario","I Nivel","COLMED-CH-7847",4
+129,1,129,"Dra. Laura Mamani Quispe","Medicina Interna","Cirujano","I Nivel","COLMED-BE-8947",19
+130,1,130,"Dr. Carlos Salvatierra Mamani","Neurología","Médico Residente","III Nivel","COLMED-LP-2924",2
+131,1,131,"Dr. María Gutiérrez Ticona","Cirugía General","Médico Especialista","I Nivel","COLMED-BE-6792",14
+132,1,132,"Lic. Luis Gutiérrez Arce","Endocrinología","Técnico Sanitario","I Nivel","COLMED-CB-9476",12
+133,1,133,"Lic. Fernando Mendoza Flores","Cardiología","Enfermera","II Nivel","COLMED-LP-5976",11
+134,1,134,"Dr. Daniela Pinto Choque","Endocrinología","Médico Especialista","I Nivel","COLMED-LP-3715",13
+135,1,135,"Lic. José Choque Rojas","Traumatología","Técnico Sanitario","II Nivel","COLMED-TJ-4407",37
+136,1,136,"Dr. Ana Vargas Pinto","Medicina General","Médico Especialista","I Nivel","COLMED-LP-9652",30
+137,1,137,"Lic. Pedro Ticona Vargas","Neurología","Enfermera Jefe","II Nivel","COLMED-TJ-7351",6
+138,1,138,"Dr. Carmen Mercado Pinto","Pediatría","Cirujano","II Nivel","COLMED-OR-2039",35
+139,1,139,"Dr. Marcos Flores Rocha","Urología","Médico Residente","III Nivel","COLMED-PO-5551",20
+140,1,140,"Lic. Silvia Vargas Pérez","Anestesiología","Enfermera","I Nivel","COLMED-CH-1866",15
+141,1,141,"Dra. María Mendoza Pérez","Medicina General","Médico Especialista","II Nivel","COLMED-SC-8386",9
+142,1,142,"Dr. Jorge Mercado Aguilar","Oftalmología","Médico Residente","II Nivel","COLMED-LP-6845",19
+143,1,143,"Lic. Raúl Rocha Rocha","Medicina General","Técnico Sanitario","II Nivel","COLMED-BE-7778",10
+144,1,144,"Dra. Rosa Salvatierra Pinto","Dermatología","Médico Residente","III Nivel","COLMED-BE-9446",8
+145,1,145,"Dra. Martha Mercado Mamani","Cardiología","Cirujano","I Nivel","COLMED-BE-6629",29
+146,1,146,"Lic. Pedro Nina Arce","Endocrinología","Enfermera","II Nivel","COLMED-CB-8997",7
+147,1,147,"Dr. Patricia Mendoza Zárate","Medicina General","Médico Especialista","I Nivel","COLMED-PA-2246",9
+148,1,148,"Lic. Silvia Ticona Mamani","Urología","Enfermera","II Nivel","COLMED-PO-8452",4
+149,1,149,"Lic. Pedro Mendoza Salvatierra","Medicina Interna","Técnico Sanitario","I Nivel","COLMED-TJ-9845",33
+150,1,150,"Dr. María Choque Vargas","Neurología","Médico Especialista","II Nivel","COLMED-OR-1408",32
+151,1,151,"Dra. Raúl Condori Pinto","Medicina General","Cirujano","I Nivel","COLMED-SC-9305",9
+152,1,152,"Dra. Ana Arce Rojas","Anestesiología","Médico Residente","I Nivel","COLMED-PO-2646",8
+153,1,153,"Dra. Pedro Pérez Mendoza","Cardiología","Cirujano","I Nivel","COLMED-PO-6568",18
+154,1,154,"Lic. María Ticona Gutiérrez","Pediatría","Enfermera Jefe","II Nivel","COLMED-SC-7644",3
+155,1,155,"Dra. Javier Rocha Salvatierra","Ginecología y Obstetricia","Médico Residente","I Nivel","COLMED-BE-5479",27
+156,1,156,"Lic. Pedro Salvatierra Vaca","Anestesiología","Enfermera Jefe","III Nivel","COLMED-CB-9626",6
+157,1,157,"Lic. Fernando Condori Vaca","Cirugía General","Enfermera Jefe","I Nivel","COLMED-LP-7750",28
+158,1,158,"Dr. Juan Nina Flores","Pediatría","Médico General","II Nivel","COLMED-BE-4560",38
+159,1,159,"Lic. Hugo Mendoza Zárate","Cirugía General","Enfermera","I Nivel","COLMED-CH-6721",24
+160,1,160,"Lic. Raúl Vaca Pérez","Cirugía General","Enfermera","II Nivel","COLMED-TJ-5299",25
+161,1,161,"Lic. Carmen Aguilar Quispe","Anestesiología","Enfermera","I Nivel","COLMED-LP-9637",19
+162,1,162,"Lic. Daniela Choque Mercado","Urología","Enfermera","I Nivel","COLMED-OR-8987",13
+163,1,163,"Dra. Juan Mamani Gutiérrez","Traumatología","Médico Especialista","III Nivel","COLMED-BE-5166",1
+164,1,164,"Dra. Silvia Nina Mercado","Cardiología","Médico Residente","III Nivel","COLMED-SC-1761",17
+165,1,165,"Dra. Luis Choque Flores","Endocrinología","Cirujano","II Nivel","COLMED-BE-6096",17
+166,1,166,"Dra. Marcos Ticona Rojas","Pediatría","Cirujano","III Nivel","COLMED-TJ-7522",30
+167,1,167,"Dr. Marcos Mamani Salvatierra","Cirugía General","Médico Residente","I Nivel","COLMED-PA-2432",20
+168,1,168,"Dra. Laura Vargas Mercado","Medicina General","Médico General","III Nivel","COLMED-PO-6899",10
+169,1,169,"Dra. Carlos Zárate Rojas","Urología","Médico Especialista","III Nivel","COLMED-PO-3715",17
+170,1,170,"Lic. José Pinto Mamani","Urología","Enfermera Jefe","III Nivel","COLMED-SC-3595",17
+171,1,171,"Dra. Carmen Flores Quispe","Medicina Interna","Médico Residente","III Nivel","COLMED-TJ-6026",6
+172,1,172,"Dr. Raúl Zárate Mendoza","Oftalmología","Médico Residente","I Nivel","COLMED-PA-9180",30
+173,1,173,"Dr. María Choque Pinto","Pediatría","Cirujano","III Nivel","COLMED-PO-2392",23
+174,1,174,"Lic. Martha Arce Condori","Oftalmología","Enfermera","I Nivel","COLMED-BE-8224",9
+175,1,175,"Lic. Fernando Quispe Quispe","Pediatría","Enfermera Jefe","II Nivel","COLMED-CB-5813",40
+176,1,176,"Dr. Laura Mendoza Rojas","Traumatología","Cirujano","I Nivel","COLMED-PA-5362",14
+177,1,177,"Dr. Daniela Pinto Mamani","Medicina General","Médico General","I Nivel","COLMED-LP-5896",3
+178,1,178,"Dra. Ana Zárate Condori","Oftalmología","Cirujano","I Nivel","COLMED-PO-7209",21
+179,1,179,"Lic. Marcos Vargas Arce","Traumatología","Enfermera","I Nivel","COLMED-BE-2631",17
+180,1,180,"Lic. Laura Vargas Ticona","Ginecología y Obstetricia","Enfermera Jefe","II Nivel","COLMED-CH-8851",40
+181,1,181,"Dr. Carmen Salvatierra Zárate","Urología","Médico Especialista","III Nivel","COLMED-LP-6732",14
+182,1,182,"Lic. Raúl Gutiérrez Choque","Ginecología y Obstetricia","Técnico Sanitario","II Nivel","COLMED-PO-6391",1
+183,1,183,"Lic. Carlos Rocha Arce","Ginecología y Obstetricia","Enfermera","I Nivel","COLMED-CH-4892",28
+184,1,184,"Dra. Carlos Ticona Mendoza","Medicina Interna","Médico Residente","I Nivel","COLMED-SC-2651",33
+185,1,185,"Dr. Carlos Rocha Arce","Endocrinología","Cirujano","II Nivel","COLMED-PA-2237",9
+186,1,186,"Dra. María Rojas Arce","Pediatría","Médico General","II Nivel","COLMED-CB-4841",26
+187,1,187,"Lic. Rosa Arce Salvatierra","Medicina Interna","Enfermera Jefe","I Nivel","COLMED-CB-9800",39
+188,1,188,"Lic. Carlos Rojas Vaca","Dermatología","Técnico Sanitario","II Nivel","COLMED-OR-1892",17
+189,1,189,"Lic. Raúl Vaca Arce","Medicina Interna","Enfermera","II Nivel","COLMED-TJ-7589",8
+190,1,190,"Lic. Rosa Vaca Choque","Traumatología","Enfermera","III Nivel","COLMED-CB-3000",25
+191,1,191,"Lic. Jorge Mendoza Pérez","Medicina Interna","Enfermera Jefe","I Nivel","COLMED-BE-9266",18
+192,1,192,"Dra. Silvia Vargas Pinto","Dermatología","Médico General","III Nivel","COLMED-SC-9474",4
+193,1,193,"Dr. Carmen Vargas Condori","Medicina Interna","Médico General","I Nivel","COLMED-PO-2289",21
+194,1,194,"Dr. Luis Vaca Choque","Medicina General","Médico Especialista","II Nivel","COLMED-BE-2235",5
+195,1,195,"Lic. Luis Rocha Quispe","Anestesiología","Enfermera Jefe","III Nivel","COLMED-PA-5589",28
+196,1,196,"Lic. Pedro Rojas Condori","Medicina Interna","Enfermera Jefe","I Nivel","COLMED-TJ-2008",14
+197,1,197,"Dra. María Pinto Nina","Oftalmología","Cirujano","III Nivel","COLMED-PA-7282",30
+198,1,198,"Dra. Marcos Condori Rojas","Medicina General","Médico Residente","III Nivel","COLMED-LP-7871",40
+199,1,199,"Dra. Laura Mamani Rocha","Cirugía General","Cirujano","I Nivel","COLMED-SC-3082",16
+200,1,200,"Dra. María Rojas Choque","Dermatología","Médico Residente","I Nivel","COLMED-CH-9188",25
+201,1,201,"Dr. Raúl Ticona Condori","Urología","Médico Residente","III Nivel","COLMED-CB-1527",2
+202,1,202,"Lic. Patricia Ticona Zárate","Urología","Técnico Sanitario","II Nivel","COLMED-OR-9241",10
+203,1,203,"Lic. José Rojas Gutiérrez","Cardiología","Enfermera Jefe","II Nivel","COLMED-BE-2062",1
+204,1,204,"Lic. Silvia Vaca Pérez","Medicina Interna","Enfermera","II Nivel","COLMED-SC-4295",4
+205,1,205,"Dr. Jorge Pinto Arce","Neurología","Médico Especialista","II Nivel","COLMED-TJ-6297",34
+206,1,206,"Lic. Jorge Mendoza Aguilar","Endocrinología","Enfermera","I Nivel","COLMED-CB-6092",18
+207,1,207,"Dr. Luis Vaca Vargas","Endocrinología","Médico Residente","I Nivel","COLMED-BE-6934",28
+208,1,208,"Lic. Fernando Flores Pérez","Endocrinología","Enfermera Jefe","II Nivel","COLMED-OR-8739",11
+209,1,209,"Dra. Marcos Rocha Ticona","Pediatría","Médico Residente","I Nivel","COLMED-OR-2081",35
+210,1,210,"Lic. Raúl Mercado Salvatierra","Traumatología","Enfermera","III Nivel","COLMED-CB-2652",11
+211,1,211,"Dra. Carlos Nina Quispe","Cirugía General","Médico Residente","III Nivel","COLMED-OR-1944",40
+212,1,212,"Dra. Patricia Arce Pinto","Cirugía General","Médico Residente","III Nivel","COLMED-OR-7465",16
+213,1,213,"Lic. Fernando Flores Mamani","Cardiología","Enfermera","I Nivel","COLMED-BE-6980",16
+214,1,214,"Dr. Hugo Arce Vaca","Medicina General","Cirujano","III Nivel","COLMED-BE-9989",4
+215,1,215,"Dr. Hugo Nina Zárate","Oftalmología","Médico Residente","I Nivel","COLMED-OR-8843",18
+216,1,216,"Dra. Patricia Salvatierra Mendoza","Cardiología","Cirujano","II Nivel","COLMED-SC-3883",12
+217,1,217,"Dr. José Mercado Pinto","Ginecología y Obstetricia","Cirujano","I Nivel","COLMED-SC-5495",15
+218,1,218,"Dra. Raúl Gutiérrez Mercado","Oftalmología","Médico Residente","II Nivel","COLMED-LP-4298",2
+219,1,219,"Lic. José Nina Pinto","Dermatología","Técnico Sanitario","II Nivel","COLMED-SC-2618",30
+220,1,220,"Lic. José Rojas Quispe","Endocrinología","Enfermera Jefe","I Nivel","COLMED-LP-1464",7
+221,1,221,"Lic. Jorge Quispe Arce","Endocrinología","Enfermera","II Nivel","COLMED-TJ-8106",40
+222,1,222,"Dra. Pedro Pinto Gutiérrez","Medicina General","Médico General","I Nivel","COLMED-CH-7950",40
+223,1,223,"Dr. Marcos Quispe Flores","Oftalmología","Médico Especialista","II Nivel","COLMED-OR-1704",28
+224,1,224,"Lic. Laura Arce Quispe","Endocrinología","Enfermera","II Nivel","COLMED-TJ-5260",10
+225,1,225,"Lic. María Pinto Rocha","Endocrinología","Enfermera","III Nivel","COLMED-CB-9098",16
+226,1,226,"Dra. Daniela Choque Condori","Oftalmología","Médico Especialista","I Nivel","COLMED-OR-5177",34
+227,1,227,"Lic. María Condori Rocha","Dermatología","Enfermera","I Nivel","COLMED-PA-7208",21
+228,1,228,"Dr. Laura Vaca Rocha","Medicina Interna","Médico General","III Nivel","COLMED-PO-7153",26
+229,1,229,"Lic. Martha Zárate Mamani","Pediatría","Técnico Sanitario","II Nivel","COLMED-TJ-3563",37
+230,1,230,"Dra. Fernando Pérez Vargas","Medicina Interna","Médico General","I Nivel","COLMED-PO-5358",5
+231,1,231,"Lic. Rosa Salvatierra Arce","Endocrinología","Enfermera","I Nivel","COLMED-PA-1715",37
+232,1,232,"Lic. Juan Mercado Pinto","Neurología","Enfermera Jefe","I Nivel","COLMED-OR-7868",34
+233,1,233,"Lic. Marcos Quispe Quispe","Cirugía General","Técnico Sanitario","II Nivel","COLMED-PO-4481",22
+234,1,234,"Dra. Silvia Ticona Pinto","Cirugía General","Médico Especialista","I Nivel","COLMED-CB-3306",40
+235,1,235,"Dra. Carmen Vargas Mercado","Oftalmología","Cirujano","I Nivel","COLMED-CB-9959",32
+236,1,236,"Dra. Fernando Zárate Rojas","Cirugía General","Médico General","III Nivel","COLMED-TJ-9314",4
+237,1,237,"Dra. Marcos Zárate Choque","Urología","Cirujano","I Nivel","COLMED-SC-7234",23
+238,1,238,"Lic. Rosa Rojas Quispe","Dermatología","Técnico Sanitario","II Nivel","COLMED-PA-2667",5
+239,1,239,"Dra. Raúl Pinto Rojas","Medicina General","Médico Residente","II Nivel","COLMED-SC-2766",4
+240,1,240,"Lic. Luis Vargas Ticona","Cirugía General","Enfermera","III Nivel","COLMED-PA-9467",23
+241,1,241,"Lic. Carlos Pinto Condori","Urología","Enfermera Jefe","III Nivel","COLMED-PA-3282",23
+242,1,242,"Dra. Carlos Mamani Rocha","Dermatología","Cirujano","III Nivel","COLMED-OR-4188",8
+243,1,243,"Dra. Juan Aguilar Rojas","Anestesiología","Médico General","II Nivel","COLMED-PA-6408",35
+244,1,244,"Lic. Pedro Salvatierra Rojas","Endocrinología","Enfermera Jefe","II Nivel","COLMED-PA-1370",21
+245,1,245,"Lic. María Gutiérrez Quispe","Dermatología","Enfermera","II Nivel","COLMED-CH-3463",24
+246,1,246,"Dr. Laura Rocha Pérez","Oftalmología","Cirujano","I Nivel","COLMED-CH-9006",2
+247,1,247,"Dr. Martha Rojas Mamani","Medicina Interna","Cirujano","I Nivel","COLMED-LP-4932",12
+248,1,248,"Dr. José Mendoza Condori","Cardiología","Médico Especialista","II Nivel","COLMED-CH-8334",36
+249,1,249,"Dra. Javier Aguilar Vaca","Oftalmología","Médico General","III Nivel","COLMED-LP-2314",39
+250,1,250,"Dra. Javier Mercado Nina","Urología","Médico Residente","III Nivel","COLMED-PA-3676",7
+251,1,251,"Dra. Luis Pinto Ticona","Pediatría","Médico Residente","II Nivel","COLMED-CB-4530",9
+252,1,252,"Lic. Luis Vargas Rocha","Cirugía General","Enfermera","III Nivel","COLMED-OR-1112",22
+253,1,253,"Lic. Silvia Vargas Vaca","Oftalmología","Enfermera","III Nivel","COLMED-OR-3316",33
+254,1,254,"Dra. Laura Nina Pérez","Urología","Médico Residente","II Nivel","COLMED-CB-3171",39
+255,1,255,"Dr. Fernando Flores Condori","Neurología","Cirujano","II Nivel","COLMED-PA-3379",29
+256,1,256,"Dr. Jorge Pinto Mercado","Anestesiología","Médico General","III Nivel","COLMED-SC-1862",9
+257,1,257,"Lic. Fernando Arce Flores","Endocrinología","Enfermera Jefe","III Nivel","COLMED-BE-7829",33
+258,1,258,"Dr. Fernando Condori Mercado","Dermatología","Médico Residente","I Nivel","COLMED-SC-6945",15
+259,1,259,"Dr. Hugo Condori Vargas","Ginecología y Obstetricia","Médico Especialista","I Nivel","COLMED-PA-9645",1
+260,1,260,"Lic. Silvia Flores Pinto","Urología","Enfermera Jefe","II Nivel","COLMED-PO-5789",15
+261,1,261,"Dra. Laura Arce Flores","Medicina Interna","Médico Residente","II Nivel","COLMED-OR-2432",21
+262,1,262,"Dr. Juan Mendoza Condori","Cardiología","Médico Especialista","III Nivel","COLMED-BE-2905",3
+263,1,263,"Dr. María Vaca Condori","Endocrinología","Médico Especialista","III Nivel","COLMED-TJ-9086",34
+264,1,264,"Dr. Ana Rojas Mamani","Traumatología","Médico Especialista","III Nivel","COLMED-CB-6262",29
+265,1,265,"Lic. Silvia Condori Vaca","Traumatología","Enfermera Jefe","I Nivel","COLMED-PO-9635",33
+266,1,266,"Dra. Juan Flores Rojas","Traumatología","Cirujano","II Nivel","COLMED-CB-9965",26
+267,1,267,"Dra. Patricia Vaca Aguilar","Neurología","Cirujano","III Nivel","COLMED-PO-8716",20
+268,1,268,"Dra. Ana Ticona Salvatierra","Endocrinología","Médico Especialista","III Nivel","COLMED-CB-9816",38
+269,1,269,"Lic. Marcos Pinto Vaca","Endocrinología","Técnico Sanitario","I Nivel","COLMED-SC-8928",18
+270,1,270,"Lic. Jorge Vaca Rojas","Traumatología","Enfermera Jefe","II Nivel","COLMED-PO-6854",23
+271,1,271,"Dra. Laura Mercado Arce","Neurología","Médico Residente","III Nivel","COLMED-LP-9891",37
+272,1,272,"Dra. Luis Rocha Vargas","Ginecología y Obstetricia","Médico Residente","I Nivel","COLMED-TJ-5994",23
+273,1,273,"Dra. Pedro Gutiérrez Quispe","Endocrinología","Cirujano","III Nivel","COLMED-SC-3672",17
+274,1,274,"Lic. José Ticona Ticona","Endocrinología","Técnico Sanitario","II Nivel","COLMED-CB-6204",33
+275,1,275,"Dra. Laura Choque Aguilar","Medicina Interna","Cirujano","III Nivel","COLMED-OR-9934",40
+276,1,276,"Lic. Marcos Aguilar Vargas","Pediatría","Técnico Sanitario","II Nivel","COLMED-CB-3678",29
+277,1,277,"Dra. Marcos Quispe Vargas","Medicina Interna","Médico General","I Nivel","COLMED-SC-9780",2
+278,1,278,"Dra. Patricia Pérez Aguilar","Oftalmología","Médico Residente","I Nivel","COLMED-CB-5611",21
+279,1,279,"Lic. Martha Rocha Vaca","Medicina Interna","Enfermera","II Nivel","COLMED-PO-4011",16
+280,1,280,"Dra. Raúl Arce Mercado","Medicina General","Médico General","II Nivel","COLMED-CB-5036",31
+281,1,281,"Lic. Raúl Mercado Vaca","Ginecología y Obstetricia","Técnico Sanitario","I Nivel","COLMED-PO-5047",7
+282,1,282,"Dr. Juan Rojas Rojas","Cirugía General","Médico Residente","III Nivel","COLMED-TJ-7117",32
+283,1,283,"Dr. Rosa Choque Choque","Anestesiología","Médico General","III Nivel","COLMED-TJ-1902",16
+284,1,284,"Lic. Marcos Zárate Vaca","Traumatología","Técnico Sanitario","III Nivel","COLMED-BE-1558",7
+285,1,285,"Lic. Luis Gutiérrez Mamani","Cirugía General","Técnico Sanitario","I Nivel","COLMED-OR-8153",4
+286,1,286,"Dra. Hugo Mamani Flores","Endocrinología","Médico Residente","II Nivel","COLMED-PO-6332",14
+287,1,287,"Dr. Raúl Salvatierra Salvatierra","Dermatología","Médico General","I Nivel","COLMED-LP-2859",36
+288,1,288,"Dra. Carlos Condori Mercado","Oftalmología","Médico Especialista","II Nivel","COLMED-OR-3625",37
+289,1,289,"Dra. Marcos Vargas Quispe","Medicina Interna","Médico Especialista","I Nivel","COLMED-PA-2071",15
+290,1,290,"Dra. Ana Condori Aguilar","Anestesiología","Cirujano","III Nivel","COLMED-CB-6233",1
+291,1,291,"Dra. Carmen Pérez Mercado","Cirugía General","Médico General","II Nivel","COLMED-TJ-7843",4
+292,1,292,"Lic. Fernando Nina Choque","Neurología","Técnico Sanitario","II Nivel","COLMED-PO-6597",31
+293,1,293,"Dr. María Condori Rocha","Dermatología","Cirujano","II Nivel","COLMED-CH-2467",29
+294,1,294,"Dr. Fernando Rojas Arce","Cirugía General","Cirujano","II Nivel","COLMED-TJ-3904",40
+295,1,295,"Dr. Martha Mercado Condori","Cardiología","Médico Especialista","II Nivel","COLMED-PO-5193",35
+296,1,296,"Dr. Rosa Arce Pérez","Cirugía General","Cirujano","II Nivel","COLMED-LP-2343",10
+297,1,297,"Dr. Ana Mercado Salvatierra","Medicina Interna","Médico General","I Nivel","COLMED-OR-6634",20
+298,1,298,"Dra. Hugo Quispe Vargas","Dermatología","Médico Residente","II Nivel","COLMED-SC-3306",25
+299,1,299,"Lic. Hugo Pérez Condori","Medicina General","Enfermera Jefe","III Nivel","COLMED-CH-7832",8
+300,1,300,"Dr. Pedro Zárate Mendoza","Neurología","Médico Especialista","I Nivel","COLMED-OR-6807",8
+301,1,301,"Dr. Javier Aguilar Rocha","Oftalmología","Médico General","III Nivel","COLMED-SC-7501",2
+302,1,302,"Dr. Patricia Choque Arce","Neurología","Cirujano","I Nivel","COLMED-CB-4972",32
+303,1,303,"Lic. Martha Ticona Aguilar","Oftalmología","Enfermera","III Nivel","COLMED-CB-2402",29
+304,1,304,"Lic. José Pérez Quispe","Medicina General","Enfermera Jefe","I Nivel","COLMED-CB-3097",5
+305,1,305,"Dra. Martha Arce Pérez","Dermatología","Médico Residente","I Nivel","COLMED-TJ-7093",37
+306,1,306,"Dr. Laura Aguilar Aguilar","Urología","Cirujano","II Nivel","COLMED-LP-3779",28
+307,1,307,"Lic. Ana Flores Vaca","Medicina Interna","Técnico Sanitario","III Nivel","COLMED-PO-7985",2
+308,1,308,"Dra. Hugo Flores Quispe","Traumatología","Cirujano","I Nivel","COLMED-PA-1457",21
+309,1,309,"Dr. Javier Aguilar Aguilar","Anestesiología","Cirujano","I Nivel","COLMED-PO-3780",12
+310,1,310,"Dr. Carlos Ticona Vargas","Pediatría","Cirujano","II Nivel","COLMED-LP-7011",32
+311,1,311,"Lic. María Pérez Arce","Anestesiología","Enfermera Jefe","III Nivel","COLMED-OR-8512",24
+312,1,312,"Dra. Ana Choque Flores","Cirugía General","Médico Residente","I Nivel","COLMED-LP-1425",11
+313,1,313,"Dr. Silvia Rocha Choque","Urología","Médico General","I Nivel","COLMED-PA-4250",8
+314,1,314,"Dr. Carlos Zárate Ticona","Medicina Interna","Médico General","III Nivel","COLMED-CH-3832",29
+315,1,315,"Lic. Daniela Condori Mendoza","Dermatología","Técnico Sanitario","III Nivel","COLMED-TJ-6805",33
+316,1,316,"Dra. Fernando Gutiérrez Mendoza","Pediatría","Cirujano","III Nivel","COLMED-LP-9816",27
+317,1,317,"Dr. Carlos Vaca Zárate","Traumatología","Médico Especialista","II Nivel","COLMED-OR-4269",32
+318,1,318,"Dra. Raúl Aguilar Pérez","Cirugía General","Médico Especialista","III Nivel","COLMED-CB-9866",34
+319,1,319,"Lic. Carmen Vaca Condori","Anestesiología","Enfermera Jefe","III Nivel","COLMED-CB-7000",35
+320,1,320,"Lic. José Arce Rojas","Pediatría","Enfermera","I Nivel","COLMED-CB-3122",21
+321,1,321,"Dr. José Mamani Mendoza","Urología","Médico Especialista","III Nivel","COLMED-SC-9922",24
+322,1,322,"Lic. Martha Nina Zárate","Cirugía General","Enfermera Jefe","III Nivel","COLMED-PO-8538",17
+323,1,323,"Lic. Javier Pérez Vaca","Ginecología y Obstetricia","Enfermera","III Nivel","COLMED-CH-1743",29
+324,1,324,"Lic. Carlos Salvatierra Vargas","Anestesiología","Técnico Sanitario","III Nivel","COLMED-OR-9430",21
+325,1,325,"Lic. Martha Mamani Vargas","Endocrinología","Técnico Sanitario","II Nivel","COLMED-TJ-9207",40
+326,1,326,"Dra. Fernando Vaca Vaca","Ginecología y Obstetricia","Médico Residente","I Nivel","COLMED-BE-6822",3
+327,1,327,"Dr. Silvia Zárate Mendoza","Cardiología","Médico Residente","III Nivel","COLMED-SC-7463",32
+328,1,328,"Dr. Fernando Arce Aguilar","Cardiología","Médico Especialista","I Nivel","COLMED-SC-4109",11
+329,1,329,"Dra. Carlos Vargas Aguilar","Dermatología","Médico Especialista","I Nivel","COLMED-CH-6278",13
+330,1,330,"Dra. Marcos Gutiérrez Flores","Neurología","Médico Residente","I Nivel","COLMED-CB-7649",36
+331,1,331,"Dr. Pedro Mamani Pinto","Urología","Cirujano","I Nivel","COLMED-PO-9775",16
+332,1,332,"Lic. Jorge Choque Pérez","Urología","Enfermera Jefe","III Nivel","COLMED-BE-5779",24
+333,1,333,"Dr. Fernando Rocha Mamani","Oftalmología","Médico General","II Nivel","COLMED-BE-9717",10
+334,1,334,"Dra. Silvia Quispe Nina","Traumatología","Médico General","III Nivel","COLMED-LP-5585",4
+335,1,335,"Dra. Luis Quispe Nina","Medicina Interna","Médico Residente","I Nivel","COLMED-SC-8445",31
+336,1,336,"Lic. Carlos Condori Arce","Cardiología","Enfermera","II Nivel","COLMED-PA-3437",11
+337,1,337,"Lic. Jorge Gutiérrez Ticona","Endocrinología","Enfermera","II Nivel","COLMED-PO-5061",17
+338,1,338,"Lic. Pedro Rocha Zárate","Cardiología","Enfermera Jefe","II Nivel","COLMED-SC-4303",19
+339,1,339,"Lic. Ana Rocha Zárate","Medicina General","Enfermera","III Nivel","COLMED-BE-7545",34
+340,1,340,"Lic. María Arce Nina","Traumatología","Técnico Sanitario","II Nivel","COLMED-BE-1356",4
+341,1,341,"Dra. Patricia Pérez Mamani","Cardiología","Médico General","I Nivel","COLMED-BE-1595",2
+342,1,342,"Lic. Marcos Vaca Aguilar","Oftalmología","Enfermera","III Nivel","COLMED-PA-4497",4
+343,1,343,"Dr. Carmen Zárate Arce","Anestesiología","Cirujano","II Nivel","COLMED-OR-3049",6
+344,1,344,"Dra. Ana Salvatierra Choque","Ginecología y Obstetricia","Médico Residente","III Nivel","COLMED-OR-5391",17
+345,1,345,"Dr. Carmen Choque Choque","Cardiología","Médico General","II Nivel","COLMED-PO-4574",26
+346,1,346,"Dra. Carlos Flores Mendoza","Medicina General","Médico Residente","II Nivel","COLMED-LP-8578",21
+347,1,347,"Dr. Laura Rojas Quispe","Endocrinología","Médico Especialista","III Nivel","COLMED-CH-1490",37
+348,1,348,"Lic. Javier Rocha Condori","Anestesiología","Técnico Sanitario","II Nivel","COLMED-PA-3687",20
+349,1,349,"Dr. Raúl Mercado Rocha","Endocrinología","Médico Residente","I Nivel","COLMED-PA-3252",31
+350,1,350,"Lic. Ana Arce Ticona","Pediatría","Enfermera","II Nivel","COLMED-BE-7611",23
+351,1,351,"Lic. Jorge Nina Rojas","Cardiología","Enfermera","II Nivel","COLMED-PO-5426",24
+352,1,352,"Dra. Daniela Mamani Salvatierra","Endocrinología","Cirujano","III Nivel","COLMED-BE-9417",14
+353,1,353,"Lic. Luis Pérez Aguilar","Ginecología y Obstetricia","Enfermera","III Nivel","COLMED-TJ-8300",18
+354,1,354,"Dra. José Vargas Pinto","Traumatología","Médico Especialista","II Nivel","COLMED-CB-3252",27
+355,1,355,"Dr. José Mendoza Pinto","Pediatría","Médico General","II Nivel","COLMED-PA-9082",29
+356,1,356,"Dra. Pedro Nina Arce","Endocrinología","Médico Especialista","I Nivel","COLMED-CH-3255",25
+357,1,357,"Lic. Javier Nina Gutiérrez","Cardiología","Enfermera","I Nivel","COLMED-CB-3017",16
+358,1,358,"Lic. Silvia Pinto Aguilar","Medicina General","Enfermera Jefe","III Nivel","COLMED-PO-9742",30
+359,1,359,"Dra. Raúl Rocha Vargas","Traumatología","Médico Residente","II Nivel","COLMED-PA-6047",22
+360,1,360,"Dra. Raúl Pinto Gutiérrez","Cirugía General","Médico Especialista","I Nivel","COLMED-PO-8314",33
+361,1,361,"Lic. Martha Choque Gutiérrez","Pediatría","Enfermera","III Nivel","COLMED-BE-5368",28
+362,1,362,"Dr. Juan Aguilar Rojas","Traumatología","Médico Especialista","III Nivel","COLMED-SC-4132",24
+363,1,363,"Lic. Pedro Rojas Zárate","Ginecología y Obstetricia","Técnico Sanitario","III Nivel","COLMED-PA-6540",2
+364,1,364,"Dra. Marcos Rojas Mamani","Cirugía General","Médico Especialista","II Nivel","COLMED-CB-8873",8
+365,1,365,"Lic. Patricia Vaca Mercado","Neurología","Enfermera Jefe","III Nivel","COLMED-TJ-3052",33
+366,1,366,"Lic. Carlos Pérez Mamani","Cirugía General","Técnico Sanitario","I Nivel","COLMED-TJ-7200",6
+367,1,367,"Dr. Daniela Mendoza Vaca","Neurología","Médico Residente","I Nivel","COLMED-SC-6645",17
+368,1,368,"Dra. Luis Salvatierra Pinto","Traumatología","Médico Especialista","I Nivel","COLMED-PA-2805",5
+369,1,369,"Lic. Carlos Mamani Mercado","Traumatología","Enfermera Jefe","II Nivel","COLMED-CH-2474",32
+370,1,370,"Dr. Carmen Zárate Aguilar","Cardiología","Médico Especialista","III Nivel","COLMED-OR-5007",23
+371,1,371,"Dra. Luis Mercado Pérez","Anestesiología","Médico Residente","III Nivel","COLMED-PO-9232",30
+372,1,372,"Lic. Javier Pérez Mercado","Endocrinología","Enfermera Jefe","III Nivel","COLMED-SC-3261",19
+373,1,373,"Lic. Silvia Ticona Aguilar","Traumatología","Enfermera","I Nivel","COLMED-BE-1821",10
+374,1,374,"Dra. Luis Gutiérrez Salvatierra","Dermatología","Médico Especialista","I Nivel","COLMED-LP-7199",23
+375,1,375,"Dra. Carlos Condori Choque","Oftalmología","Cirujano","II Nivel","COLMED-OR-6518",40
+376,1,376,"Dr. Silvia Pérez Ticona","Medicina General","Cirujano","II Nivel","COLMED-LP-8942",8
+377,1,377,"Dra. Patricia Pinto Gutiérrez","Neurología","Médico Residente","III Nivel","COLMED-TJ-6030",9
+378,1,378,"Lic. Laura Rojas Pérez","Anestesiología","Enfermera","II Nivel","COLMED-TJ-5576",35
+379,1,379,"Dr. Silvia Flores Pérez","Pediatría","Cirujano","I Nivel","COLMED-TJ-6794",17
+380,1,380,"Dra. Javier Mamani Arce","Neurología","Médico General","I Nivel","COLMED-SC-9786",25
+381,1,381,"Lic. José Salvatierra Mercado","Oftalmología","Enfermera Jefe","III Nivel","COLMED-PA-6131",36
+382,1,382,"Dr. Patricia Flores Gutiérrez","Traumatología","Médico Especialista","II Nivel","COLMED-CH-8765",15
+383,1,383,"Dra. Rosa Nina Arce","Oftalmología","Médico General","III Nivel","COLMED-BE-4540",5
+384,1,384,"Lic. Juan Vargas Vargas","Ginecología y Obstetricia","Enfermera","III Nivel","COLMED-BE-9165",11
+385,1,385,"Lic. Daniela Mendoza Pérez","Urología","Enfermera","II Nivel","COLMED-PO-4397",29
+386,1,386,"Dr. Ana Vargas Flores","Oftalmología","Médico General","II Nivel","COLMED-SC-4783",25
+387,1,387,"Lic. Hugo Rojas Mamani","Pediatría","Enfermera Jefe","II Nivel","COLMED-PA-2988",30
+388,1,388,"Dra. Martha Aguilar Flores","Cirugía General","Médico General","I Nivel","COLMED-SC-5936",32
+389,1,389,"Dra. Martha Mamani Zárate","Urología","Médico Especialista","II Nivel","COLMED-OR-4192",8
+390,1,390,"Dr. Javier Zárate Choque","Ginecología y Obstetricia","Médico Residente","III Nivel","COLMED-SC-5777",17
+391,1,391,"Lic. Marcos Rocha Vaca","Oftalmología","Técnico Sanitario","III Nivel","COLMED-TJ-9027",3
+392,1,392,"Dra. José Arce Mendoza","Oftalmología","Cirujano","III Nivel","COLMED-CH-6316",32
+393,1,393,"Dra. Ana Nina Arce","Oftalmología","Médico Residente","II Nivel","COLMED-BE-4538",39
+394,1,394,"Dra. Luis Rojas Zárate","Ginecología y Obstetricia","Médico Especialista","I Nivel","COLMED-PA-8018",23
+395,1,395,"Lic. Raúl Ticona Zárate","Medicina General","Enfermera Jefe","II Nivel","COLMED-CB-2509",37
+396,1,396,"Dra. Juan Choque Pinto","Urología","Médico Residente","I Nivel","COLMED-LP-5066",24
+397,1,397,"Dra. Carlos Pinto Rojas","Traumatología","Médico Especialista","III Nivel","COLMED-LP-6108",5
+398,1,398,"Dr. María Salvatierra Quispe","Endocrinología","Cirujano","II Nivel","COLMED-SC-8340",17
+399,1,399,"Dr. Jorge Nina Rojas","Anestesiología","Médico Especialista","III Nivel","COLMED-CB-8204",21
+400,1,400,"Lic. Javier Aguilar Choque","Medicina Interna","Técnico Sanitario","II Nivel","COLMED-LP-8882",3
+401,1,401,"Dra. Pedro Gutiérrez Rocha","Endocrinología","Médico Especialista","I Nivel","COLMED-BE-3559",13
+402,1,402,"Lic. Jorge Quispe Vargas","Neurología","Enfermera Jefe","I Nivel","COLMED-SC-2637",23
+403,1,403,"Lic. Daniela Pinto Pinto","Endocrinología","Técnico Sanitario","III Nivel","COLMED-PO-1470",11
+404,1,404,"Dr. Rosa Gutiérrez Choque","Anestesiología","Médico Especialista","I Nivel","COLMED-BE-6570",32
+405,1,405,"Dr. Jorge Mamani Pérez","Neurología","Cirujano","II Nivel","COLMED-TJ-6549",26
+406,1,406,"Dr. Patricia Gutiérrez Zárate","Endocrinología","Médico General","I Nivel","COLMED-CH-5875",23
+407,1,407,"Lic. Raúl Vaca Mercado","Oftalmología","Enfermera","III Nivel","COLMED-BE-4606",23
+408,1,408,"Lic. Martha Zárate Zárate","Urología","Enfermera","I Nivel","COLMED-BE-4499",27
+409,1,409,"Dra. Pedro Aguilar Zárate","Ginecología y Obstetricia","Médico Residente","III Nivel","COLMED-PA-5923",30
+410,1,410,"Lic. Laura Vargas Rojas","Anestesiología","Enfermera Jefe","III Nivel","COLMED-BE-3092",26
+411,1,411,"Dr. Martha Gutiérrez Aguilar","Cirugía General","Médico General","II Nivel","COLMED-CB-5266",31
+412,1,412,"Lic. Carmen Mendoza Mamani","Cardiología","Enfermera","III Nivel","COLMED-CH-5309",12
+413,1,413,"Dra. Patricia Quispe Flores","Oftalmología","Cirujano","II Nivel","COLMED-BE-2939",17
+414,1,414,"Lic. Marcos Gutiérrez Mamani","Medicina General","Enfermera Jefe","II Nivel","COLMED-CH-1451",3
+415,1,415,"Dra. Martha Zárate Pérez","Oftalmología","Médico General","I Nivel","COLMED-TJ-3931",19
+416,1,416,"Lic. Jorge Choque Ticona","Oftalmología","Enfermera","I Nivel","COLMED-OR-2039",38
+417,1,417,"Dra. José Salvatierra Rojas","Dermatología","Médico General","III Nivel","COLMED-CH-1414",16
+418,1,418,"Lic. Carmen Aguilar Pinto","Pediatría","Enfermera","II Nivel","COLMED-PA-1862",21
+419,1,419,"Dra. Ana Vaca Mendoza","Medicina Interna","Médico Residente","I Nivel","COLMED-CH-2076",30
+420,1,420,"Lic. María Pinto Mendoza","Dermatología","Enfermera Jefe","I Nivel","COLMED-SC-4082",27
+421,1,421,"Dra. Fernando Nina Flores","Urología","Médico Residente","II Nivel","COLMED-PA-1581",16
+422,1,422,"Dr. Hugo Condori Vaca","Endocrinología","Médico General","III Nivel","COLMED-PO-8217",39
+423,1,423,"Lic. Carmen Vargas Mamani","Neurología","Técnico Sanitario","I Nivel","COLMED-CH-7813",35
+424,1,424,"Lic. Rosa Mercado Gutiérrez","Ginecología y Obstetricia","Enfermera Jefe","II Nivel","COLMED-PA-8885",22
+425,1,425,"Lic. Hugo Vaca Mercado","Cirugía General","Enfermera Jefe","II Nivel","COLMED-SC-4447",19
+426,1,426,"Dra. Patricia Gutiérrez Arce","Anestesiología","Médico General","I Nivel","COLMED-CH-9911",23
+427,1,427,"Dra. Daniela Vaca Pérez","Dermatología","Cirujano","III Nivel","COLMED-PA-2536",22
+428,1,428,"Dra. Pedro Nina Flores","Medicina General","Médico Especialista","III Nivel","COLMED-CH-4707",26
+429,1,429,"Lic. Juan Arce Ticona","Medicina Interna","Enfermera","I Nivel","COLMED-LP-3757",2
+430,1,430,"Dr. Carmen Quispe Rocha","Neurología","Médico Especialista","III Nivel","COLMED-BE-3846",40
+431,1,431,"Dr. Pedro Nina Flores","Pediatría","Cirujano","II Nivel","COLMED-CB-8234",3
+432,1,432,"Lic. María Mercado Choque","Endocrinología","Técnico Sanitario","I Nivel","COLMED-BE-7736",26
+433,1,433,"Lic. Carmen Nina Pinto","Dermatología","Técnico Sanitario","II Nivel","COLMED-PA-7390",11
+434,1,434,"Lic. Javier Aguilar Ticona","Medicina Interna","Técnico Sanitario","I Nivel","COLMED-CH-7133",31
+435,1,435,"Dra. Marcos Mamani Quispe","Medicina Interna","Médico General","II Nivel","COLMED-BE-4603",27
+436,1,436,"Dr. Laura Flores Condori","Oftalmología","Cirujano","I Nivel","COLMED-CB-4596",21
+437,1,437,"Lic. Raúl Rocha Pérez","Neurología","Enfermera Jefe","III Nivel","COLMED-PO-3120",11
+438,1,438,"Dra. Juan Flores Nina","Cardiología","Médico Especialista","II Nivel","COLMED-SC-3942",34
+439,1,439,"Lic. Ana Vaca Aguilar","Urología","Enfermera Jefe","I Nivel","COLMED-LP-1685",37
+440,1,440,"Lic. Ana Nina Rocha","Urología","Enfermera Jefe","I Nivel","COLMED-SC-6204",5
+441,1,441,"Dr. Luis Choque Rocha","Endocrinología","Médico Residente","II Nivel","COLMED-OR-3260",4
+442,1,442,"Lic. Carlos Vargas Mendoza","Cirugía General","Enfermera Jefe","I Nivel","COLMED-CH-2947",18
+443,1,443,"Lic. Hugo Pérez Pinto","Ginecología y Obstetricia","Técnico Sanitario","III Nivel","COLMED-OR-3406",29
+444,1,444,"Lic. Jorge Pinto Zárate","Cardiología","Enfermera","II Nivel","COLMED-SC-6630",4
+445,1,445,"Dra. Fernando Rocha Choque","Medicina General","Médico Especialista","II Nivel","COLMED-CB-8836",34
+446,1,446,"Lic. Ana Quispe Flores","Endocrinología","Técnico Sanitario","I Nivel","COLMED-PO-2206",34
+447,1,447,"Lic. Hugo Gutiérrez Choque","Medicina General","Técnico Sanitario","III Nivel","COLMED-OR-7800",19
+448,1,448,"Dra. Luis Salvatierra Mendoza","Pediatría","Médico General","III Nivel","COLMED-TJ-8689",24
+449,1,449,"Lic. María Arce Rojas","Ginecología y Obstetricia","Enfermera Jefe","III Nivel","COLMED-SC-7453",27
+450,1,450,"Lic. Patricia Quispe Salvatierra","Medicina Interna","Técnico Sanitario","III Nivel","COLMED-BE-5626",10
+451,1,451,"Lic. Raúl Vargas Pinto","Cirugía General","Enfermera","III Nivel","COLMED-CH-6009",26
+452,1,452,"Lic. Patricia Vaca Choque","Dermatología","Técnico Sanitario","I Nivel","COLMED-PO-6991",6
+453,1,453,"Dr. Juan Zárate Pinto","Medicina General","Médico General","II Nivel","COLMED-LP-4660",20
+454,1,454,"Dra. Jorge Aguilar Vargas","Cirugía General","Médico Residente","I Nivel","COLMED-CB-9393",11
+455,1,455,"Lic. Martha Vargas Choque","Medicina Interna","Enfermera","I Nivel","COLMED-SC-2706",15
+456,1,456,"Lic. Daniela Vaca Rocha","Oftalmología","Enfermera","I Nivel","COLMED-TJ-1420",3
+457,1,457,"Dra. Fernando Mercado Ticona","Cirugía General","Médico Especialista","II Nivel","COLMED-OR-4098",17
+458,1,458,"Dra. Daniela Zárate Condori","Pediatría","Médico Residente","I Nivel","COLMED-PO-4583",27
+459,1,459,"Dr. Luis Rocha Zárate","Neurología","Médico Especialista","II Nivel","COLMED-LP-7980",33
+460,1,460,"Lic. Luis Quispe Mamani","Traumatología","Técnico Sanitario","I Nivel","COLMED-LP-6862",25
+461,1,461,"Lic. Marcos Zárate Ticona","Medicina Interna","Enfermera","I Nivel","COLMED-CB-1649",11
+462,1,462,"Dr. Marcos Mendoza Quispe","Traumatología","Cirujano","I Nivel","COLMED-TJ-6059",2
+463,1,463,"Dr. Rosa Vargas Rocha","Neurología","Médico General","I Nivel","COLMED-OR-2721",28
+464,1,464,"Lic. Javier Salvatierra Quispe","Medicina General","Enfermera Jefe","III Nivel","COLMED-SC-6307",7
+465,1,465,"Dr. Luis Flores Vargas","Cirugía General","Cirujano","II Nivel","COLMED-TJ-7998",29
+466,1,466,"Lic. Carlos Condori Vargas","Cirugía General","Enfermera Jefe","III Nivel","COLMED-SC-3788",8
+467,1,467,"Dra. Hugo Rojas Pérez","Endocrinología","Cirujano","II Nivel","COLMED-CH-4928",37
+468,1,468,"Dr. Martha Aguilar Pérez","Neurología","Médico Residente","II Nivel","COLMED-BE-3029",19
+469,1,469,"Dr. María Condori Vargas","Oftalmología","Médico Residente","II Nivel","COLMED-PA-6460",4
+470,1,470,"Lic. Rosa Ticona Aguilar","Endocrinología","Técnico Sanitario","I Nivel","COLMED-OR-7972",11
+471,1,471,"Lic. Patricia Gutiérrez Rojas","Medicina General","Enfermera Jefe","II Nivel","COLMED-BE-8179",38
+472,1,472,"Dr. José Ticona Zárate","Medicina Interna","Cirujano","I Nivel","COLMED-OR-9634",15
+473,1,473,"Dr. Raúl Zárate Pinto","Medicina General","Cirujano","I Nivel","COLMED-BE-1443",28
+474,1,474,"Dra. Laura Choque Nina","Urología","Médico General","III Nivel","COLMED-LP-5798",31
+475,1,475,"Dra. Pedro Nina Rojas","Cardiología","Médico Residente","I Nivel","COLMED-SC-2635",6
+476,1,476,"Lic. Jorge Arce Gutiérrez","Urología","Enfermera","I Nivel","COLMED-CH-9477",29
+477,1,477,"Dr. Raúl Condori Choque","Traumatología","Cirujano","I Nivel","COLMED-BE-5742",11
+478,1,478,"Dra. Laura Vargas Rocha","Neurología","Médico Residente","III Nivel","COLMED-TJ-9994",28
+479,1,479,"Dr. Daniela Salvatierra Flores","Oftalmología","Médico Residente","I Nivel","COLMED-PO-5378",7
+480,1,480,"Dr. Laura Quispe Vargas","Neurología","Médico Residente","I Nivel","COLMED-SC-9104",26
+481,1,481,"Lic. Raúl Mendoza Vargas","Cirugía General","Enfermera Jefe","III Nivel","COLMED-LP-9830",38
+482,1,482,"Dr. Rosa Salvatierra Salvatierra","Oftalmología","Cirujano","I Nivel","COLMED-OR-4194",3
+483,1,483,"Dr. Rosa Quispe Ticona","Pediatría","Médico General","II Nivel","COLMED-SC-2254",3
+484,1,484,"Dr. Juan Vargas Flores","Cirugía General","Cirujano","III Nivel","COLMED-BE-5167",38
+485,1,485,"Dr. Laura Salvatierra Salvatierra","Medicina General","Médico Especialista","III Nivel","COLMED-OR-5055",11
+486,1,486,"Lic. Juan Salvatierra Flores","Medicina General","Enfermera","III Nivel","COLMED-CH-3339",17
+487,1,487,"Dr. Silvia Quispe Nina","Anestesiología","Cirujano","II Nivel","COLMED-TJ-5701",28
+488,1,488,"Dr. Jorge Rojas Condori","Medicina General","Médico General","II Nivel","COLMED-TJ-5436",12
+489,1,489,"Lic. Pedro Mamani Vargas","Ginecología y Obstetricia","Técnico Sanitario","II Nivel","COLMED-SC-4531",30
+490,1,490,"Lic. Pedro Flores Zárate","Medicina Interna","Enfermera","III Nivel","COLMED-CB-3868",5
+491,1,491,"Dr. Carlos Zárate Pérez","Traumatología","Médico Residente","III Nivel","COLMED-PO-8262",19
+492,1,492,"Dr. Juan Mamani Pinto","Anestesiología","Cirujano","III Nivel","COLMED-SC-2599",10
+493,1,493,"Dra. Fernando Pinto Aguilar","Ginecología y Obstetricia","Médico Especialista","I Nivel","COLMED-CH-5171",5
+494,1,494,"Dr. Patricia Nina Nina","Cirugía General","Médico Especialista","III Nivel","COLMED-SC-7776",39
+495,1,495,"Dra. Daniela Aguilar Mendoza","Endocrinología","Cirujano","III Nivel","COLMED-SC-9093",16
+496,1,496,"Dra. Jorge Rojas Ticona","Traumatología","Médico Residente","I Nivel","COLMED-PO-7719",38
+497,1,497,"Dra. Carmen Pérez Vargas","Cirugía General","Médico General","II Nivel","COLMED-LP-2853",10
+498,1,498,"Lic. María Rocha Vargas","Dermatología","Enfermera","II Nivel","COLMED-LP-5060",14
+499,1,499,"Lic. Laura Condori Ticona","Cardiología","Técnico Sanitario","III Nivel","COLMED-PA-3732",10
+500,1,500,"Dra. Martha Choque Salvatierra","Traumatología","Cirujano","III Nivel","COLMED-OR-2600",4
+501,1,501,"Lic. Rosa Mamani Pérez","Endocrinología","Técnico Sanitario","I Nivel","COLMED-PO-2248",11
+502,1,502,"Dra. José Condori Ticona","Anestesiología","Médico General","I Nivel","COLMED-OR-5901",23
+503,1,503,"Lic. José Aguilar Vargas","Dermatología","Técnico Sanitario","I Nivel","COLMED-PO-5688",4
+504,1,504,"Dr. Luis Zárate Vargas","Medicina Interna","Cirujano","III Nivel","COLMED-LP-9679",22
+505,1,505,"Dra. José Choque Quispe","Cardiología","Médico Residente","III Nivel","COLMED-CH-3106",26
+506,1,506,"Dra. Martha Choque Mendoza","Ginecología y Obstetricia","Cirujano","II Nivel","COLMED-OR-8318",20
+507,1,507,"Dra. María Quispe Nina","Neurología","Cirujano","I Nivel","COLMED-LP-5627",31
+508,1,508,"Lic. Hugo Arce Rocha","Neurología","Enfermera","II Nivel","COLMED-BE-7438",24
+509,1,509,"Lic. Hugo Aguilar Gutiérrez","Urología","Técnico Sanitario","I Nivel","COLMED-CH-7290",25
+510,1,510,"Dra. Jorge Vaca Gutiérrez","Ginecología y Obstetricia","Cirujano","II Nivel","COLMED-BE-9377",39
+511,1,511,"Dra. Rosa Pérez Vaca","Medicina Interna","Médico General","III Nivel","COLMED-OR-1850",26
+512,1,512,"Dra. Rosa Ticona Rojas","Medicina Interna","Cirujano","I Nivel","COLMED-PA-3562",26
+513,1,513,"Dr. Daniela Zárate Rocha","Anestesiología","Médico Residente","I Nivel","COLMED-CH-3605",2
+514,1,514,"Lic. Raúl Aguilar Rojas","Medicina General","Enfermera Jefe","II Nivel","COLMED-LP-6975",9
+515,1,515,"Lic. Daniela Vaca Mamani","Pediatría","Técnico Sanitario","III Nivel","COLMED-LP-6955",1
+516,1,516,"Dra. Juan Pinto Rocha","Medicina Interna","Cirujano","II Nivel","COLMED-CH-3030",30
+517,1,517,"Lic. Carmen Pérez Mamani","Traumatología","Enfermera Jefe","I Nivel","COLMED-PO-2884",30
+518,1,518,"Dr. Silvia Vaca Salvatierra","Cirugía General","Médico Residente","III Nivel","COLMED-PA-4601",18
+519,1,519,"Lic. Ana Pérez Rocha","Cirugía General","Enfermera","II Nivel","COLMED-CH-2554",24
+520,1,520,"Lic. Laura Arce Nina","Oftalmología","Técnico Sanitario","III Nivel","COLMED-PA-2622",32
+521,1,521,"Dra. María Gutiérrez Gutiérrez","Medicina Interna","Médico Residente","III Nivel","COLMED-LP-9543",26
+522,1,522,"Dr. Carlos Rocha Choque","Cirugía General","Médico General","I Nivel","COLMED-SC-5862",9
+523,1,523,"Dra. Silvia Arce Aguilar","Cirugía General","Médico Especialista","III Nivel","COLMED-CB-4960",13
+524,1,524,"Dr. Jorge Pérez Mercado","Urología","Médico Especialista","I Nivel","COLMED-CB-2375",36
+525,1,525,"Lic. Hugo Quispe Arce","Medicina General","Enfermera Jefe","III Nivel","COLMED-CB-7889",30
+526,1,526,"Dr. Patricia Choque Choque","Cardiología","Médico General","I Nivel","COLMED-OR-2765",5
+527,1,527,"Dra. José Rojas Mamani","Cardiología","Cirujano","II Nivel","COLMED-SC-1470",19
+528,1,528,"Lic. Marcos Arce Mendoza","Medicina Interna","Enfermera Jefe","I Nivel","COLMED-OR-9767",7
+529,1,529,"Dr. Pedro Pérez Zárate","Oftalmología","Médico Especialista","I Nivel","COLMED-CH-3078",4
+530,1,530,"Dra. María Ticona Vaca","Neurología","Médico Residente","III Nivel","COLMED-OR-9033",22
+531,1,531,"Dr. José Rocha Condori","Medicina Interna","Médico Especialista","III Nivel","COLMED-CB-2635",19
+532,1,532,"Dr. Pedro Mendoza Arce","Cardiología","Médico Especialista","III Nivel","COLMED-PO-7289",20
+533,1,533,"Dr. Carmen Gutiérrez Mercado","Urología","Médico Especialista","II Nivel","COLMED-LP-5862",38
+534,1,534,"Dra. Carlos Mamani Rojas","Cardiología","Médico Especialista","III Nivel","COLMED-CB-5984",6
+535,1,535,"Dra. Carmen Aguilar Condori","Traumatología","Médico General","II Nivel","COLMED-CB-8463",16
+536,1,536,"Dr. Luis Pinto Rojas","Cardiología","Médico General","II Nivel","COLMED-PA-2571",18
+537,1,537,"Dr. Daniela Vaca Flores","Pediatría","Médico General","III Nivel","COLMED-OR-5100",2
+538,1,538,"Dr. Juan Nina Ticona","Medicina Interna","Médico General","III Nivel","COLMED-PA-9942",29
+539,1,539,"Dra. Rosa Arce Zárate","Traumatología","Médico General","I Nivel","COLMED-SC-2246",32
+540,1,540,"Dra. Javier Quispe Choque","Neurología","Médico Residente","III Nivel","COLMED-PA-6492",10
+541,1,541,"Lic. Daniela Mercado Rojas","Neurología","Enfermera Jefe","I Nivel","COLMED-OR-2053",30
+542,1,542,"Lic. Pedro Nina Ticona","Pediatría","Técnico Sanitario","II Nivel","COLMED-LP-5884",33
+543,1,543,"Dra. Laura Arce Salvatierra","Pediatría","Médico General","II Nivel","COLMED-OR-4722",26
+544,1,544,"Dra. Rosa Quispe Vargas","Medicina Interna","Médico Especialista","III Nivel","COLMED-LP-2621",39
+545,1,545,"Dra. Laura Vaca Vargas","Cardiología","Médico General","I Nivel","COLMED-CH-7461",16
+546,1,546,"Lic. Pedro Choque Condori","Cirugía General","Enfermera Jefe","II Nivel","COLMED-LP-6766",8
+547,1,547,"Lic. Laura Vargas Zárate","Cirugía General","Técnico Sanitario","I Nivel","COLMED-PA-3193",5
+548,1,548,"Lic. Hugo Choque Zárate","Medicina General","Técnico Sanitario","II Nivel","COLMED-CH-4054",36
+549,1,549,"Dr. María Vargas Arce","Ginecología y Obstetricia","Médico Especialista","II Nivel","COLMED-TJ-5805",4
+550,1,550,"Dra. Javier Pérez Rojas","Neurología","Médico Residente","I Nivel","COLMED-CH-8321",19
+551,1,551,"Dr. Laura Mamani Pérez","Cirugía General","Médico Especialista","II Nivel","COLMED-LP-3145",4
+552,1,552,"Dr. Patricia Mamani Mendoza","Oftalmología","Médico General","III Nivel","COLMED-PA-7790",31
+553,1,553,"Lic. Javier Quispe Gutiérrez","Anestesiología","Técnico Sanitario","III Nivel","COLMED-PO-1225",5
+554,1,554,"Lic. Raúl Vaca Quispe","Anestesiología","Enfermera","II Nivel","COLMED-SC-1088",17
+555,1,555,"Lic. María Rojas Choque","Pediatría","Enfermera Jefe","II Nivel","COLMED-PO-3801",12
+556,1,556,"Dra. Hugo Quispe Rocha","Urología","Médico Residente","II Nivel","COLMED-OR-4885",36
+557,1,557,"Dr. Fernando Gutiérrez Quispe","Cirugía General","Cirujano","III Nivel","COLMED-PO-2768",17
+558,1,558,"Dra. Pedro Vargas Mamani","Cardiología","Médico Residente","III Nivel","COLMED-CB-3074",11
+559,1,559,"Lic. Daniela Mamani Mercado","Pediatría","Enfermera Jefe","II Nivel","COLMED-TJ-4167",8
+560,1,560,"Lic. Silvia Quispe Vaca","Neurología","Enfermera","I Nivel","COLMED-CB-3670",14
+561,1,561,"Lic. Marcos Gutiérrez Rojas","Medicina General","Técnico Sanitario","I Nivel","COLMED-SC-9259",5
+562,1,562,"Lic. Ana Zárate Mercado","Dermatología","Enfermera Jefe","I Nivel","COLMED-PA-4265",22
+563,1,563,"Lic. Luis Salvatierra Vargas","Anestesiología","Enfermera","II Nivel","COLMED-TJ-4126",24
+564,1,564,"Dr. Marcos Rocha Mercado","Ginecología y Obstetricia","Cirujano","III Nivel","COLMED-BE-2823",4
+565,1,565,"Lic. Javier Nina Condori","Ginecología y Obstetricia","Enfermera Jefe","III Nivel","COLMED-TJ-1555",38
+566,1,566,"Dr. Silvia Arce Rojas","Dermatología","Médico General","II Nivel","COLMED-CH-6842",16
+567,1,567,"Dra. Juan Zárate Flores","Urología","Cirujano","II Nivel","COLMED-CH-6169",38
+568,1,568,"Dra. Daniela Vaca Vaca","Dermatología","Médico Residente","I Nivel","COLMED-SC-7485",12
+569,1,569,"Lic. Jorge Gutiérrez Mendoza","Medicina General","Enfermera Jefe","III Nivel","COLMED-OR-4770",32
+570,1,570,"Lic. Laura Zárate Rocha","Cirugía General","Enfermera","I Nivel","COLMED-OR-8441",13
+571,1,571,"Lic. Javier Vaca Rojas","Endocrinología","Técnico Sanitario","I Nivel","COLMED-PO-5013",38
+572,1,572,"Lic. Daniela Condori Ticona","Cirugía General","Enfermera","III Nivel","COLMED-CB-4246",20
+573,1,573,"Dra. Juan Vaca Choque","Endocrinología","Médico General","II Nivel","COLMED-LP-1104",19
+574,1,574,"Lic. Silvia Zárate Pinto","Urología","Técnico Sanitario","I Nivel","COLMED-SC-7337",9
+575,1,575,"Dra. José Arce Flores","Cirugía General","Médico Residente","III Nivel","COLMED-PA-1442",19
+576,1,576,"Dr. Javier Flores Gutiérrez","Ginecología y Obstetricia","Médico General","I Nivel","COLMED-PA-2747",10
+577,1,577,"Dr. Pedro Nina Pinto","Endocrinología","Cirujano","I Nivel","COLMED-PA-6588",14
+578,1,578,"Dr. Martha Pinto Mercado","Anestesiología","Médico General","I Nivel","COLMED-PA-8333",30
+579,1,579,"Lic. María Rocha Vaca","Traumatología","Enfermera","III Nivel","COLMED-BE-7317",36
+580,1,580,"Dra. Pedro Nina Rojas","Cardiología","Médico General","II Nivel","COLMED-SC-1548",2
+581,1,581,"Dr. María Salvatierra Gutiérrez","Medicina Interna","Médico Residente","I Nivel","COLMED-CB-8747",24
+582,1,582,"Lic. Daniela Pinto Rocha","Neurología","Técnico Sanitario","II Nivel","COLMED-PO-5148",26
+583,1,583,"Dr. Jorge Mamani Quispe","Medicina General","Médico General","II Nivel","COLMED-CH-9928",30
+584,1,584,"Dra. Carmen Vaca Gutiérrez","Cardiología","Médico General","III Nivel","COLMED-TJ-3036",37
+585,1,585,"Dr. Marcos Choque Gutiérrez","Pediatría","Médico Especialista","III Nivel","COLMED-SC-2060",19
+586,1,586,"Lic. Carlos Quispe Choque","Urología","Enfermera","II Nivel","COLMED-LP-6183",32
+587,1,587,"Dra. Rosa Quispe Pérez","Cirugía General","Médico Residente","II Nivel","COLMED-BE-8766",34
+588,1,588,"Lic. Daniela Choque Arce","Urología","Técnico Sanitario","II Nivel","COLMED-LP-5715",11
+589,1,589,"Dr. Jorge Gutiérrez Pérez","Traumatología","Médico Especialista","II Nivel","COLMED-BE-2993",12
+590,1,590,"Lic. Luis Salvatierra Pinto","Medicina Interna","Enfermera","II Nivel","COLMED-LP-3257",1
+591,1,591,"Dra. Luis Pérez Salvatierra","Oftalmología","Médico General","III Nivel","COLMED-PO-7246",27
+592,1,592,"Dr. Marcos Rojas Vargas","Neurología","Médico General","I Nivel","COLMED-TJ-8280",5
+593,1,593,"Lic. Pedro Aguilar Arce","Endocrinología","Enfermera","III Nivel","COLMED-CB-1839",13
+594,1,594,"Dra. Carlos Nina Arce","Urología","Médico General","II Nivel","COLMED-CH-5441",28
+595,1,595,"Dra. Carmen Vargas Rojas","Anestesiología","Médico General","II Nivel","COLMED-CH-7419",35
+596,1,596,"Lic. Carmen Mendoza Condori","Endocrinología","Enfermera","II Nivel","COLMED-LP-3229",38
+597,1,597,"Lic. Pedro Nina Arce","Anestesiología","Técnico Sanitario","II Nivel","COLMED-CB-8475",21
+598,1,598,"Lic. Carlos Quispe Zárate","Pediatría","Enfermera Jefe","III Nivel","COLMED-BE-8198",5
+599,1,599,"Dr. Rosa Ticona Rocha","Cirugía General","Cirujano","III Nivel","COLMED-SC-2340",22
+600,1,600,"Lic. María Mercado Ticona","Anestesiología","Enfermera","III Nivel","COLMED-PO-4517",5
+601,1,601,"Dr. María Flores Vargas","Oftalmología","Médico Especialista","II Nivel","COLMED-SC-5461",33
+602,1,602,"Dr. Martha Rojas Vargas","Pediatría","Cirujano","III Nivel","COLMED-SC-4227",14
+603,1,603,"Lic. Ana Condori Vaca","Cirugía General","Enfermera Jefe","III Nivel","COLMED-OR-9230",15
+604,1,604,"Dra. Fernando Salvatierra Mercado","Anestesiología","Médico Especialista","I Nivel","COLMED-CB-3534",3
+605,1,605,"Dra. Jorge Nina Ticona","Anestesiología","Médico Residente","III Nivel","COLMED-SC-9184",13
+606,1,606,"Dr. Fernando Gutiérrez Choque","Cardiología","Médico Residente","III Nivel","COLMED-PA-2204",39
+607,1,607,"Dra. Jorge Mercado Aguilar","Cardiología","Médico General","II Nivel","COLMED-OR-6684",26
+608,1,608,"Lic. Daniela Arce Pinto","Medicina General","Enfermera Jefe","II Nivel","COLMED-SC-3055",11
+609,1,609,"Lic. Marcos Condori Aguilar","Medicina General","Enfermera Jefe","I Nivel","COLMED-CH-3585",28
+610,1,610,"Dr. Carlos Rojas Rojas","Pediatría","Cirujano","I Nivel","COLMED-PA-8155",18
+611,1,611,"Lic. Martha Mamani Gutiérrez","Oftalmología","Técnico Sanitario","I Nivel","COLMED-PO-9944",39
+612,1,612,"Dr. Fernando Zárate Vaca","Cirugía General","Médico Residente","I Nivel","COLMED-OR-5482",28
+613,1,613,"Lic. Hugo Vargas Mercado","Anestesiología","Enfermera Jefe","II Nivel","COLMED-CH-8874",25
+614,1,614,"Lic. Fernando Zárate Choque","Cirugía General","Enfermera","I Nivel","COLMED-CH-1474",11
+615,1,615,"Lic. Ana Choque Mercado","Dermatología","Técnico Sanitario","II Nivel","COLMED-SC-6203",18
+616,1,616,"Lic. Martha Vaca Arce","Neurología","Enfermera","I Nivel","COLMED-PA-8050",21
+617,1,617,"Lic. Luis Nina Zárate","Medicina Interna","Enfermera Jefe","I Nivel","COLMED-OR-4543",38
+618,1,618,"Lic. Silvia Aguilar Mamani","Ginecología y Obstetricia","Enfermera Jefe","III Nivel","COLMED-OR-1741",7
+619,1,619,"Dr. Daniela Ticona Quispe","Endocrinología","Médico Residente","II Nivel","COLMED-BE-6252",15
+620,1,620,"Lic. Juan Mamani Arce","Medicina Interna","Enfermera","II Nivel","COLMED-CH-6953",13
+621,1,621,"Dr. Carlos Mamani Flores","Cardiología","Médico General","I Nivel","COLMED-TJ-2429",17
+622,1,622,"Dra. Javier Vargas Mendoza","Medicina Interna","Médico Especialista","I Nivel","COLMED-LP-6479",4
+623,1,623,"Dra. Patricia Zárate Arce","Cardiología","Médico Residente","II Nivel","COLMED-PO-9472",27
+624,1,624,"Dr. María Pérez Pérez","Ginecología y Obstetricia","Médico Residente","II Nivel","COLMED-OR-8888",26
+625,1,625,"Dr. Martha Choque Quispe","Neurología","Médico Residente","III Nivel","COLMED-CB-7660",26
+626,1,626,"Dr. Marcos Quispe Salvatierra","Urología","Médico Residente","II Nivel","COLMED-PO-1793",15
+627,1,627,"Lic. Jorge Pinto Quispe","Cardiología","Técnico Sanitario","III Nivel","COLMED-CB-8648",40
+628,1,628,"Lic. Jorge Mamani Flores","Endocrinología","Enfermera Jefe","II Nivel","COLMED-OR-3159",1
+629,1,629,"Lic. Laura Arce Pérez","Traumatología","Enfermera Jefe","II Nivel","COLMED-PO-1144",13
+630,1,630,"Dr. Javier Nina Choque","Traumatología","Médico Especialista","II Nivel","COLMED-LP-6895",3
+631,1,631,"Lic. Ana Quispe Rojas","Medicina General","Enfermera","III Nivel","COLMED-PO-7288",35
+632,1,632,"Dr. Daniela Pinto Zárate","Neurología","Cirujano","III Nivel","COLMED-BE-7118",31
+633,1,633,"Lic. Pedro Arce Salvatierra","Oftalmología","Enfermera Jefe","III Nivel","COLMED-LP-2235",8
+634,1,634,"Lic. María Mendoza Aguilar","Cirugía General","Enfermera","II Nivel","COLMED-PA-4608",26
+635,1,635,"Dr. Juan Pinto Nina","Neurología","Médico Especialista","II Nivel","COLMED-SC-1700",3
+636,1,636,"Lic. Patricia Salvatierra Zárate","Medicina Interna","Enfermera Jefe","III Nivel","COLMED-PA-2725",18
+637,1,637,"Dr. Luis Vaca Ticona","Anestesiología","Cirujano","II Nivel","COLMED-SC-1028",16
+638,1,638,"Lic. Pedro Condori Quispe","Cirugía General","Enfermera","I Nivel","COLMED-SC-9354",19
+639,1,639,"Dra. Martha Arce Pérez","Cardiología","Médico General","II Nivel","COLMED-PO-5049",37
+640,1,640,"Lic. Pedro Mercado Flores","Neurología","Técnico Sanitario","I Nivel","COLMED-LP-2532",19
+641,1,641,"Lic. Juan Flores Aguilar","Traumatología","Enfermera","I Nivel","COLMED-CB-2055",34
+642,1,642,"Dr. Carmen Salvatierra Mamani","Dermatología","Médico Residente","III Nivel","COLMED-LP-2626",34
+643,1,643,"Dr. Ana Choque Quispe","Cirugía General","Médico Especialista","I Nivel","COLMED-PA-7704",20
+644,1,644,"Dr. Martha Mamani Vaca","Endocrinología","Médico Residente","II Nivel","COLMED-PO-2051",33
+645,1,645,"Lic. Luis Ticona Vaca","Dermatología","Enfermera","III Nivel","COLMED-PA-3502",15
+646,1,646,"Dr. Ana Gutiérrez Choque","Cirugía General","Médico Especialista","II Nivel","COLMED-OR-6310",28
+647,1,647,"Lic. Javier Pérez Ticona","Dermatología","Técnico Sanitario","II Nivel","COLMED-SC-7557",8
+648,1,648,"Lic. Carmen Choque Rocha","Urología","Enfermera","II Nivel","COLMED-PO-2853",23
+649,1,649,"Lic. Hugo Aguilar Rojas","Cirugía General","Técnico Sanitario","III Nivel","COLMED-PO-9952",3
+650,1,650,"Lic. Silvia Choque Ticona","Oftalmología","Enfermera Jefe","I Nivel","COLMED-CH-6992",24
+651,1,651,"Lic. Patricia Zárate Ticona","Cirugía General","Enfermera Jefe","III Nivel","COLMED-PA-5556",17
+652,1,652,"Lic. Juan Choque Pinto","Medicina General","Enfermera","I Nivel","COLMED-OR-4855",21
+653,1,653,"Dr. Raúl Mendoza Zárate","Traumatología","Médico Especialista","II Nivel","COLMED-OR-5802",15
+654,1,654,"Lic. Rosa Quispe Vargas","Medicina Interna","Enfermera","II Nivel","COLMED-SC-5459",18
+655,1,655,"Lic. Silvia Nina Mendoza","Oftalmología","Enfermera","III Nivel","COLMED-OR-8557",3
+656,1,656,"Dra. Laura Vaca Pérez","Neurología","Médico General","III Nivel","COLMED-BE-8087",32
+657,1,657,"Dra. Pedro Gutiérrez Arce","Urología","Médico General","II Nivel","COLMED-CH-9607",32
+658,1,658,"Dr. Fernando Salvatierra Pinto","Anestesiología","Médico Especialista","III Nivel","COLMED-PA-3558",19
+659,1,659,"Lic. Carlos Aguilar Nina","Endocrinología","Técnico Sanitario","I Nivel","COLMED-TJ-8708",2
+660,1,660,"Lic. Pedro Pérez Vaca","Oftalmología","Técnico Sanitario","I Nivel","COLMED-BE-2260",37
+661,1,661,"Lic. Marcos Pinto Mamani","Cirugía General","Enfermera Jefe","II Nivel","COLMED-PO-6036",12
+662,1,662,"Dra. Rosa Pinto Mamani","Neurología","Médico General","III Nivel","COLMED-CB-1993",7
+663,1,663,"Dra. Rosa Pérez Flores","Pediatría","Cirujano","II Nivel","COLMED-BE-8133",1
+664,1,664,"Dr. Rosa Condori Rojas","Urología","Médico General","III Nivel","COLMED-BE-3129",33
+665,1,665,"Dra. Patricia Rocha Salvatierra","Neurología","Médico General","I Nivel","COLMED-BE-9989",35
+666,1,666,"Lic. Patricia Mercado Flores","Cirugía General","Enfermera Jefe","I Nivel","COLMED-PA-4025",21
+667,1,667,"Lic. José Nina Aguilar","Urología","Enfermera Jefe","III Nivel","COLMED-SC-9958",23
+668,1,668,"Dra. Carlos Zárate Arce","Cardiología","Médico Residente","I Nivel","COLMED-PA-5313",34
+669,1,669,"Dra. Rosa Mamani Pinto","Anestesiología","Médico General","II Nivel","COLMED-OR-4678",35
+670,1,670,"Dr. Fernando Choque Gutiérrez","Anestesiología","Médico Residente","II Nivel","COLMED-OR-3239",6
+671,1,671,"Lic. Carmen Arce Rojas","Traumatología","Enfermera","III Nivel","COLMED-PA-4554",8
+672,1,672,"Lic. Pedro Flores Pérez","Pediatría","Enfermera Jefe","I Nivel","COLMED-PO-1659",37
+673,1,673,"Lic. José Pinto Mendoza","Ginecología y Obstetricia","Enfermera","I Nivel","COLMED-PA-7744",16
+674,1,674,"Dr. Jorge Rojas Mamani","Urología","Médico General","III Nivel","COLMED-TJ-4249",37
+675,1,675,"Dr. Javier Vaca Aguilar","Cardiología","Médico Especialista","II Nivel","COLMED-PA-2775",32
+676,1,676,"Lic. Pedro Nina Choque","Cirugía General","Enfermera Jefe","I Nivel","COLMED-PO-5375",16
+677,1,677,"Dr. Raúl Gutiérrez Mercado","Endocrinología","Médico Residente","III Nivel","COLMED-TJ-4489",5
+678,1,678,"Lic. Javier Ticona Rocha","Endocrinología","Técnico Sanitario","III Nivel","COLMED-CB-9387",31
+679,1,679,"Dr. Luis Pinto Vaca","Dermatología","Médico Especialista","III Nivel","COLMED-SC-2138",30
+680,1,680,"Dr. María Mendoza Choque","Traumatología","Médico Residente","III Nivel","COLMED-CH-9872",29
+681,1,681,"Lic. Juan Aguilar Mendoza","Ginecología y Obstetricia","Enfermera","III Nivel","COLMED-TJ-3653",19
+682,1,682,"Lic. Hugo Salvatierra Mercado","Dermatología","Enfermera","II Nivel","COLMED-CB-1210",10
+683,1,683,"Dra. Marcos Zárate Rojas","Oftalmología","Médico Residente","II Nivel","COLMED-CB-1768",19
+684,1,684,"Lic. Raúl Salvatierra Salvatierra","Dermatología","Enfermera Jefe","III Nivel","COLMED-OR-8426",9
+685,1,685,"Lic. Raúl Condori Mamani","Medicina General","Enfermera","I Nivel","COLMED-LP-3571",10
+686,1,686,"Lic. Silvia Rocha Gutiérrez","Oftalmología","Enfermera Jefe","II Nivel","COLMED-OR-1043",32
+687,1,687,"Dra. Laura Arce Mendoza","Medicina Interna","Médico Especialista","II Nivel","COLMED-CH-7691",25
+688,1,688,"Dr. Carlos Arce Aguilar","Medicina Interna","Cirujano","II Nivel","COLMED-OR-6014",7
+689,1,689,"Lic. Carmen Mercado Rocha","Cardiología","Técnico Sanitario","I Nivel","COLMED-CH-4916",20
+690,1,690,"Dr. Martha Choque Pinto","Traumatología","Médico Especialista","I Nivel","COLMED-SC-9677",33
+691,1,691,"Dra. Hugo Rojas Nina","Neurología","Cirujano","II Nivel","COLMED-CH-8683",15
+692,1,692,"Dra. María Ticona Vargas","Dermatología","Cirujano","III Nivel","COLMED-CB-7952",6
+693,1,693,"Dr. Ana Gutiérrez Pérez","Cardiología","Médico General","I Nivel","COLMED-TJ-1436",25
+694,1,694,"Dra. Laura Gutiérrez Ticona","Urología","Médico Especialista","II Nivel","COLMED-CB-3355",3
+695,1,695,"Lic. Carlos Vargas Rojas","Cardiología","Enfermera Jefe","I Nivel","COLMED-CH-4483",17
+696,1,696,"Lic. Juan Salvatierra Rojas","Neurología","Enfermera Jefe","I Nivel","COLMED-TJ-6712",2
+697,1,697,"Dra. Jorge Choque Quispe","Endocrinología","Médico General","II Nivel","COLMED-OR-9300",20
+698,1,698,"Lic. Juan Salvatierra Aguilar","Pediatría","Técnico Sanitario","III Nivel","COLMED-PA-9514",37
+699,1,699,"Lic. Carlos Choque Choque","Anestesiología","Enfermera","II Nivel","COLMED-CB-8832",31
+700,1,700,"Lic. Hugo Ticona Mendoza","Pediatría","Técnico Sanitario","I Nivel","COLMED-LP-4275",24
+701,1,701,"Dr. Rosa Aguilar Zárate","Medicina General","Médico Residente","I Nivel","COLMED-OR-2800",20
+702,1,702,"Lic. Daniela Mercado Pinto","Medicina General","Enfermera","I Nivel","COLMED-LP-6864",22
+703,1,703,"Dra. Juan Vargas Quispe","Anestesiología","Médico Residente","II Nivel","COLMED-CB-6811",21
+704,1,704,"Dr. Jorge Mendoza Arce","Anestesiología","Médico General","II Nivel","COLMED-PA-3317",34
+705,1,705,"Dra. Rosa Flores Gutiérrez","Oftalmología","Médico Especialista","II Nivel","COLMED-SC-4797",17
+706,1,706,"Dr. Raúl Rojas Mamani","Ginecología y Obstetricia","Médico Residente","II Nivel","COLMED-PA-1317",33
+707,1,707,"Dr. Raúl Nina Vaca","Ginecología y Obstetricia","Médico Especialista","I Nivel","COLMED-TJ-6538",12
+708,1,708,"Lic. Juan Ticona Vaca","Endocrinología","Técnico Sanitario","I Nivel","COLMED-CH-3275",3
+709,1,709,"Lic. Jorge Aguilar Choque","Traumatología","Enfermera Jefe","II Nivel","COLMED-PA-1415",8
+710,1,710,"Dr. Carmen Vargas Zárate","Endocrinología","Médico Especialista","II Nivel","COLMED-LP-3966",31
+711,1,711,"Dra. Javier Vaca Flores","Medicina General","Médico General","III Nivel","COLMED-OR-1966",7
+712,1,712,"Dr. Hugo Zárate Gutiérrez","Medicina Interna","Médico Residente","II Nivel","COLMED-LP-3233",40
+713,1,713,"Lic. Hugo Ticona Gutiérrez","Anestesiología","Enfermera Jefe","I Nivel","COLMED-BE-1040",14
+714,1,714,"Dr. Pedro Condori Aguilar","Medicina Interna","Médico Residente","II Nivel","COLMED-LP-5101",32
+715,1,715,"Lic. Pedro Pérez Rocha","Urología","Enfermera","II Nivel","COLMED-SC-3932",15
+716,1,716,"Lic. Javier Rocha Mercado","Urología","Enfermera","I Nivel","COLMED-BE-2062",36
+717,1,717,"Lic. Javier Rojas Mercado","Cirugía General","Enfermera Jefe","I Nivel","COLMED-PA-2494",34
+718,1,718,"Dr. Marcos Arce Mamani","Anestesiología","Cirujano","I Nivel","COLMED-PO-2803",3
+719,1,719,"Lic. Carmen Zárate Arce","Cardiología","Enfermera Jefe","I Nivel","COLMED-LP-9199",25
+720,1,720,"Dr. Rosa Condori Flores","Medicina Interna","Médico General","II Nivel","COLMED-TJ-5549",31
+721,1,721,"Lic. Jorge Quispe Aguilar","Neurología","Técnico Sanitario","III Nivel","COLMED-BE-1572",9
+722,1,722,"Dr. Jorge Ticona Ticona","Cirugía General","Cirujano","I Nivel","COLMED-CB-1183",2
+723,1,723,"Dr. Patricia Condori Vargas","Traumatología","Cirujano","II Nivel","COLMED-BE-5982",4
+724,1,724,"Lic. Marcos Rocha Pinto","Traumatología","Enfermera Jefe","III Nivel","COLMED-CH-1054",13
+725,1,725,"Dr. Silvia Vargas Mendoza","Urología","Cirujano","III Nivel","COLMED-SC-3763",30
+726,1,726,"Dr. Carmen Gutiérrez Zárate","Medicina Interna","Médico Residente","I Nivel","COLMED-TJ-1525",16
+727,1,727,"Dra. Silvia Pinto Aguilar","Urología","Médico General","II Nivel","COLMED-BE-4365",32
+728,1,728,"Dr. Luis Aguilar Aguilar","Dermatología","Médico Residente","II Nivel","COLMED-LP-5851",19
+729,1,729,"Dra. Javier Mercado Rojas","Cardiología","Cirujano","I Nivel","COLMED-OR-2294",36
+730,1,730,"Lic. María Vargas Mamani","Ginecología y Obstetricia","Técnico Sanitario","I Nivel","COLMED-SC-2553",3
+731,1,731,"Lic. Pedro Salvatierra Nina","Medicina Interna","Enfermera Jefe","I Nivel","COLMED-PA-1987",38
+732,1,732,"Dr. Raúl Vaca Gutiérrez","Oftalmología","Médico General","II Nivel","COLMED-PO-3292",29
+733,1,733,"Dr. Marcos Pinto Aguilar","Urología","Médico Especialista","III Nivel","COLMED-PA-5366",32
+734,1,734,"Dra. Juan Vaca Zárate","Medicina General","Médico Especialista","I Nivel","COLMED-PA-7094",30
+735,1,735,"Dr. Silvia Choque Choque","Medicina Interna","Médico Residente","II Nivel","COLMED-BE-1069",19
+736,1,736,"Dra. María Pérez Mamani","Medicina Interna","Médico General","I Nivel","COLMED-PA-6305",14
+737,1,737,"Lic. Martha Pinto Pinto","Traumatología","Enfermera","II Nivel","COLMED-BE-5669",11
+738,1,738,"Lic. Patricia Rojas Rojas","Cirugía General","Enfermera Jefe","II Nivel","COLMED-CH-4154",36
+739,1,739,"Lic. Luis Vaca Gutiérrez","Cirugía General","Enfermera","I Nivel","COLMED-CH-1262",25
+740,1,740,"Lic. Silvia Vargas Condori","Dermatología","Enfermera","I Nivel","COLMED-BE-4545",33
+741,1,741,"Lic. Juan Arce Mamani","Anestesiología","Enfermera","III Nivel","COLMED-PA-1650",4
+742,1,742,"Lic. Ana Pérez Rocha","Dermatología","Técnico Sanitario","II Nivel","COLMED-CH-7134",20
+743,1,743,"Dra. Carlos Mendoza Vargas","Endocrinología","Cirujano","III Nivel","COLMED-PA-2364",5
+744,1,744,"Dra. Patricia Condori Condori","Pediatría","Médico Residente","I Nivel","COLMED-PO-3504",35
+745,1,745,"Lic. Carlos Pérez Aguilar","Oftalmología","Técnico Sanitario","III Nivel","COLMED-PO-1370",36
+746,1,746,"Lic. Hugo Nina Mercado","Pediatría","Técnico Sanitario","I Nivel","COLMED-CH-9456",15
+747,1,747,"Lic. Silvia Vaca Vargas","Anestesiología","Enfermera","III Nivel","COLMED-CH-5100",25
+748,1,748,"Lic. Hugo Mendoza Rocha","Cardiología","Enfermera Jefe","III Nivel","COLMED-OR-9297",23
+749,1,749,"Lic. Martha Vaca Zárate","Anestesiología","Enfermera Jefe","III Nivel","COLMED-OR-3951",25
+750,1,750,"Dra. Patricia Pérez Ticona","Endocrinología","Cirujano","II Nivel","COLMED-BE-1868",23
+751,1,751,"Dra. Rosa Vaca Mendoza","Cardiología","Médico General","II Nivel","COLMED-CB-1097",29
+752,1,752,"Dra. Carlos Salvatierra Nina","Medicina Interna","Médico General","III Nivel","COLMED-CB-4117",13
+753,1,753,"Dra. Martha Quispe Pinto","Dermatología","Médico General","II Nivel","COLMED-LP-1538",26
+754,1,754,"Lic. José Pinto Rojas","Neurología","Técnico Sanitario","II Nivel","COLMED-SC-3009",31
+755,1,755,"Lic. Laura Salvatierra Rojas","Medicina Interna","Enfermera Jefe","III Nivel","COLMED-PO-4152",40
+756,1,756,"Lic. Ana Pinto Pérez","Cirugía General","Técnico Sanitario","III Nivel","COLMED-CH-7358",22
+757,1,757,"Dra. Ana Rojas Rocha","Cardiología","Médico General","III Nivel","COLMED-LP-7923",13
+758,1,758,"Dra. Martha Choque Flores","Dermatología","Médico General","II Nivel","COLMED-LP-3921",20
+759,1,759,"Lic. Martha Salvatierra Vaca","Medicina Interna","Enfermera Jefe","II Nivel","COLMED-SC-8076",37
+760,1,760,"Lic. Javier Pinto Rocha","Dermatología","Enfermera","III Nivel","COLMED-SC-6967",8
+761,1,761,"Dra. Javier Ticona Salvatierra","Cirugía General","Médico Especialista","I Nivel","COLMED-TJ-6375",30
+762,1,762,"Dra. Pedro Condori Flores","Traumatología","Médico General","II Nivel","COLMED-SC-6998",38
+763,1,763,"Lic. Juan Quispe Vargas","Anestesiología","Enfermera Jefe","II Nivel","COLMED-LP-5935",1
+764,1,764,"Dra. Ana Arce Rocha","Cardiología","Médico Residente","II Nivel","COLMED-SC-4658",20
+765,1,765,"Dra. Fernando Nina Nina","Neurología","Médico Residente","II Nivel","COLMED-CB-1447",21
+766,1,766,"Dr. Martha Mendoza Mendoza","Cardiología","Médico General","II Nivel","COLMED-OR-4656",4
+767,1,767,"Dra. Laura Mamani Pérez","Dermatología","Médico General","I Nivel","COLMED-CH-1421",33
+768,1,768,"Lic. Silvia Rocha Mercado","Medicina Interna","Enfermera","I Nivel","COLMED-CH-1009",26
+769,1,769,"Dr. Fernando Vaca Vargas","Dermatología","Médico Especialista","II Nivel","COLMED-OR-3896",11
+770,1,770,"Lic. Martha Aguilar Vaca","Anestesiología","Enfermera Jefe","I Nivel","COLMED-CB-8872",30
+771,1,771,"Dra. José Nina Mendoza","Anestesiología","Médico General","III Nivel","COLMED-SC-7724",35
+772,1,772,"Dr. Fernando Condori Mendoza","Cirugía General","Médico Especialista","I Nivel","COLMED-TJ-5024",25
+773,1,773,"Dra. Rosa Salvatierra Rocha","Ginecología y Obstetricia","Médico Residente","II Nivel","COLMED-CB-6677",21
+774,1,774,"Dr. Patricia Salvatierra Mercado","Pediatría","Médico Residente","I Nivel","COLMED-BE-4387",2
+775,1,775,"Dr. Pedro Pinto Flores","Traumatología","Médico General","I Nivel","COLMED-BE-7908",40
+776,1,776,"Lic. Rosa Vargas Quispe","Urología","Enfermera Jefe","II Nivel","COLMED-PA-8045",32
+777,1,777,"Lic. Rosa Mendoza Zárate","Medicina Interna","Enfermera","II Nivel","COLMED-TJ-3386",10
+778,1,778,"Dr. María Pérez Quispe","Traumatología","Cirujano","III Nivel","COLMED-BE-9366",17
+779,1,779,"Lic. Hugo Pinto Quispe","Anestesiología","Técnico Sanitario","II Nivel","COLMED-PO-8108",24
+780,1,780,"Dr. Daniela Quispe Mendoza","Endocrinología","Médico Especialista","II Nivel","COLMED-PA-9820",1
+781,1,781,"Dra. Silvia Vargas Mamani","Medicina General","Cirujano","II Nivel","COLMED-SC-8896",40
+782,1,782,"Lic. Marcos Salvatierra Mendoza","Urología","Enfermera Jefe","I Nivel","COLMED-PA-9828",5
+783,1,783,"Lic. Luis Pinto Mercado","Endocrinología","Enfermera Jefe","II Nivel","COLMED-SC-3041",39
+784,1,784,"Dr. Jorge Arce Pinto","Cardiología","Médico General","II Nivel","COLMED-TJ-8842",18
+785,1,785,"Dr. Marcos Rojas Quispe","Ginecología y Obstetricia","Cirujano","II Nivel","COLMED-BE-5814",36
+786,1,786,"Dra. María Mendoza Pinto","Neurología","Médico Residente","II Nivel","COLMED-PA-3410",3
+787,1,787,"Dra. Javier Gutiérrez Vaca","Medicina General","Médico Especialista","II Nivel","COLMED-BE-5065",38
+788,1,788,"Lic. Carlos Salvatierra Zárate","Cirugía General","Enfermera","III Nivel","COLMED-PA-1260",13
+789,1,789,"Lic. Raúl Mamani Arce","Pediatría","Enfermera Jefe","II Nivel","COLMED-TJ-2059",27
+790,1,790,"Dr. Javier Mamani Aguilar","Cardiología","Médico Especialista","II Nivel","COLMED-PO-7771",35
+791,1,791,"Dra. Pedro Choque Condori","Anestesiología","Médico Residente","I Nivel","COLMED-SC-6841",23
+792,1,792,"Lic. María Pinto Pérez","Pediatría","Técnico Sanitario","I Nivel","COLMED-PO-4369",19
+793,1,793,"Dra. Patricia Vaca Salvatierra","Urología","Médico Especialista","II Nivel","COLMED-CH-3526",8
+794,1,794,"Dr. Laura Mendoza Condori","Urología","Médico Especialista","I Nivel","COLMED-LP-3679",31
+795,1,795,"Lic. Javier Choque Condori","Cirugía General","Enfermera","III Nivel","COLMED-LP-6654",24
+796,1,796,"Lic. Fernando Pinto Quispe","Ginecología y Obstetricia","Técnico Sanitario","II Nivel","COLMED-OR-8323",5
+797,1,797,"Dra. Ana Gutiérrez Salvatierra","Cardiología","Médico Especialista","I Nivel","COLMED-BE-2000",8
+798,1,798,"Dra. Martha Arce Choque","Ginecología y Obstetricia","Médico Especialista","II Nivel","COLMED-LP-5982",5
+799,1,799,"Dra. Raúl Mamani Vargas","Endocrinología","Médico Especialista","II Nivel","COLMED-LP-9032",14
+800,1,800,"Dra. Raúl Arce Zárate","Oftalmología","Médico Especialista","III Nivel","COLMED-PA-4511",32
+801,1,801,"Dr. Carlos Vaca Vaca","Neurología","Médico Residente","I Nivel","COLMED-LP-1993",15
+802,1,802,"Lic. María Gutiérrez Arce","Medicina General","Técnico Sanitario","III Nivel","COLMED-TJ-7843",20
+803,1,803,"Lic. Fernando Arce Quispe","Dermatología","Enfermera","II Nivel","COLMED-CH-7826",5
+804,1,804,"Dr. Daniela Pinto Pinto","Urología","Médico Especialista","I Nivel","COLMED-PA-6938",31
+805,1,805,"Dr. Juan Vargas Flores","Neurología","Médico General","II Nivel","COLMED-TJ-1325",9
+806,1,806,"Dr. Pedro Condori Choque","Ginecología y Obstetricia","Médico General","II Nivel","COLMED-LP-3724",22
+807,1,807,"Dra. Rosa Mercado Flores","Oftalmología","Cirujano","I Nivel","COLMED-PO-8496",10
+808,1,808,"Dr. Juan Salvatierra Mamani","Oftalmología","Cirujano","I Nivel","COLMED-PA-6648",33
+809,1,809,"Dr. Silvia Salvatierra Pérez","Neurología","Cirujano","II Nivel","COLMED-CB-1790",26
+810,1,810,"Dra. Silvia Rocha Ticona","Endocrinología","Médico Especialista","II Nivel","COLMED-OR-5310",9
+811,1,811,"Dra. Pedro Salvatierra Ticona","Oftalmología","Cirujano","I Nivel","COLMED-TJ-4656",35
+812,1,812,"Lic. Javier Condori Vaca","Pediatría","Enfermera Jefe","II Nivel","COLMED-TJ-1637",28
+813,1,813,"Dra. Ana Salvatierra Pinto","Endocrinología","Médico General","II Nivel","COLMED-BE-1603",14
+814,1,814,"Lic. Juan Aguilar Vargas","Endocrinología","Enfermera","II Nivel","COLMED-CH-8950",28
+815,1,815,"Dr. Juan Mercado Nina","Medicina General","Médico Residente","II Nivel","COLMED-TJ-5791",19
+816,1,816,"Dr. Carmen Flores Rocha","Endocrinología","Médico Especialista","II Nivel","COLMED-CB-5394",15
+817,1,817,"Dr. Juan Vargas Ticona","Medicina Interna","Cirujano","II Nivel","COLMED-CB-7023",17
+818,1,818,"Lic. Laura Zárate Aguilar","Medicina Interna","Técnico Sanitario","III Nivel","COLMED-TJ-8023",31
+819,1,819,"Lic. Laura Mamani Vargas","Medicina General","Enfermera Jefe","I Nivel","COLMED-SC-4314",37
+820,1,820,"Dr. Silvia Salvatierra Nina","Anestesiología","Médico Especialista","I Nivel","COLMED-SC-7789",8
+821,1,821,"Dra. Silvia Nina Quispe","Oftalmología","Médico General","II Nivel","COLMED-OR-3463",31
+822,1,822,"Lic. Carmen Gutiérrez Vaca","Anestesiología","Técnico Sanitario","I Nivel","COLMED-PA-5162",23
+823,1,823,"Lic. José Vargas Pérez","Urología","Enfermera Jefe","I Nivel","COLMED-LP-7334",2
+824,1,824,"Lic. Martha Mercado Mamani","Cardiología","Técnico Sanitario","II Nivel","COLMED-LP-8872",40
+825,1,825,"Dra. María Flores Vaca","Medicina General","Médico Especialista","I Nivel","COLMED-TJ-8535",36
+826,1,826,"Lic. Pedro Vargas Rocha","Pediatría","Enfermera","II Nivel","COLMED-OR-1296",35
+827,1,827,"Lic. Carlos Arce Nina","Ginecología y Obstetricia","Enfermera","III Nivel","COLMED-SC-4780",35
+828,1,828,"Dra. Rosa Choque Rocha","Urología","Médico Especialista","I Nivel","COLMED-TJ-8576",28
+829,1,829,"Lic. Ana Vargas Gutiérrez","Traumatología","Enfermera Jefe","I Nivel","COLMED-PO-1347",32
+830,1,830,"Lic. Daniela Vaca Zárate","Traumatología","Enfermera Jefe","III Nivel","COLMED-CH-6073",37
+831,1,831,"Lic. Rosa Arce Ticona","Endocrinología","Enfermera Jefe","III Nivel","COLMED-PA-7353",30
+832,1,832,"Dr. José Quispe Salvatierra","Medicina Interna","Médico Especialista","I Nivel","COLMED-BE-5047",7
+833,1,833,"Lic. José Choque Aguilar","Endocrinología","Enfermera Jefe","II Nivel","COLMED-PA-9807",14
+834,1,834,"Dr. Raúl Pinto Aguilar","Ginecología y Obstetricia","Médico Residente","II Nivel","COLMED-BE-1271",5
+835,1,835,"Dra. José Rocha Mercado","Medicina General","Médico General","II Nivel","COLMED-OR-8736",30
+836,1,836,"Dra. Javier Condori Vaca","Cirugía General","Médico General","II Nivel","COLMED-BE-9214",27
+837,1,837,"Dr. Carmen Rojas Ticona","Endocrinología","Médico General","III Nivel","COLMED-BE-4320",22
+838,1,838,"Dra. José Vargas Quispe","Ginecología y Obstetricia","Cirujano","III Nivel","COLMED-OR-2337",37
+839,1,839,"Lic. Jorge Quispe Rojas","Cardiología","Técnico Sanitario","I Nivel","COLMED-LP-7162",14
+840,1,840,"Dr. Javier Choque Mendoza","Anestesiología","Cirujano","I Nivel","COLMED-PA-6983",15
+841,1,841,"Lic. Carlos Flores Zárate","Pediatría","Enfermera Jefe","III Nivel","COLMED-CH-5770",34
+842,1,842,"Dra. Martha Gutiérrez Condori","Traumatología","Médico General","III Nivel","COLMED-CH-8912",18
+843,1,843,"Dra. Marcos Salvatierra Salvatierra","Medicina General","Médico General","III Nivel","COLMED-PO-4552",23
+844,1,844,"Dr. Martha Mamani Rojas","Dermatología","Médico Residente","II Nivel","COLMED-OR-7011",8
+845,1,845,"Dra. Pedro Rojas Pérez","Oftalmología","Cirujano","II Nivel","COLMED-PO-2134",9
+846,1,846,"Dra. Silvia Mercado Vargas","Medicina Interna","Médico General","III Nivel","COLMED-TJ-9502",31
+847,1,847,"Dr. Carmen Zárate Mendoza","Urología","Médico Residente","III Nivel","COLMED-CB-7868",26
+848,1,848,"Lic. Luis Vaca Condori","Neurología","Enfermera","II Nivel","COLMED-BE-5181",11
+849,1,849,"Lic. Ana Quispe Nina","Medicina General","Técnico Sanitario","II Nivel","COLMED-CH-2536",6
+850,1,850,"Lic. Luis Rocha Choque","Medicina Interna","Enfermera","II Nivel","COLMED-PA-5096",24
+851,1,851,"Lic. Juan Condori Vaca","Traumatología","Enfermera","I Nivel","COLMED-PA-4433",33
+852,1,852,"Lic. Juan Arce Mendoza","Medicina Interna","Enfermera Jefe","III Nivel","COLMED-PO-4455",12
+853,1,853,"Dr. José Mendoza Gutiérrez","Cirugía General","Médico General","III Nivel","COLMED-PO-1002",33
+854,1,854,"Dra. Carlos Vaca Arce","Urología","Médico Residente","I Nivel","COLMED-CB-3201",37
+855,1,855,"Lic. Patricia Condori Vaca","Medicina Interna","Enfermera","I Nivel","COLMED-PO-3435",32
+856,1,856,"Lic. Daniela Zárate Arce","Ginecología y Obstetricia","Enfermera Jefe","II Nivel","COLMED-CH-3006",4
+857,1,857,"Lic. Hugo Arce Pérez","Pediatría","Enfermera","III Nivel","COLMED-SC-5346",26
+858,1,858,"Lic. Laura Rojas Rocha","Endocrinología","Enfermera Jefe","III Nivel","COLMED-CB-7502",37
+859,1,859,"Lic. Daniela Choque Mendoza","Neurología","Técnico Sanitario","II Nivel","COLMED-LP-4266",8
+860,1,860,"Dr. Jorge Rojas Mendoza","Cardiología","Médico General","III Nivel","COLMED-PO-1697",33
+861,1,861,"Lic. Carmen Gutiérrez Pinto","Cirugía General","Enfermera Jefe","I Nivel","COLMED-CH-5976",30
+862,1,862,"Dra. Raúl Mendoza Mendoza","Medicina Interna","Cirujano","I Nivel","COLMED-PO-7098",13
+863,1,863,"Dra. María Quispe Choque","Medicina Interna","Cirujano","III Nivel","COLMED-LP-7394",34
+864,1,864,"Lic. Hugo Zárate Flores","Ginecología y Obstetricia","Enfermera","III Nivel","COLMED-PO-1640",33
+865,1,865,"Dra. Silvia Arce Zárate","Urología","Cirujano","I Nivel","COLMED-PO-6706",34
+866,1,866,"Dra. Marcos Rojas Choque","Medicina Interna","Cirujano","I Nivel","COLMED-SC-5403",34
+867,1,867,"Dr. Laura Quispe Choque","Cirugía General","Médico Especialista","I Nivel","COLMED-PA-5257",5
+868,1,868,"Dr. Raúl Mendoza Aguilar","Ginecología y Obstetricia","Médico General","III Nivel","COLMED-OR-1587",7
+869,1,869,"Lic. Martha Flores Gutiérrez","Ginecología y Obstetricia","Enfermera","I Nivel","COLMED-LP-2096",6
+870,1,870,"Lic. Daniela Salvatierra Aguilar","Cirugía General","Enfermera Jefe","II Nivel","COLMED-LP-5983",18
+871,1,871,"Lic. Juan Condori Rocha","Medicina General","Enfermera Jefe","I Nivel","COLMED-PO-9271",26
+872,1,872,"Dr. Laura Flores Pérez","Cirugía General","Médico General","III Nivel","COLMED-SC-5256",22
+873,1,873,"Dra. Hugo Aguilar Vargas","Anestesiología","Médico General","I Nivel","COLMED-TJ-9004",35
+874,1,874,"Lic. Daniela Mendoza Flores","Cardiología","Enfermera Jefe","III Nivel","COLMED-BE-4518",26
+875,1,875,"Dr. Jorge Vargas Vaca","Medicina Interna","Médico Especialista","III Nivel","COLMED-CB-7771",33
+876,1,876,"Lic. Laura Rojas Salvatierra","Medicina General","Técnico Sanitario","I Nivel","COLMED-BE-7839",1
+877,1,877,"Lic. Rosa Mamani Mercado","Oftalmología","Técnico Sanitario","II Nivel","COLMED-BE-2559",29
+878,1,878,"Lic. Carmen Vaca Flores","Oftalmología","Técnico Sanitario","II Nivel","COLMED-TJ-5190",21
+879,1,879,"Dra. Martha Zárate Pérez","Endocrinología","Médico Especialista","II Nivel","COLMED-PO-9296",15
+880,1,880,"Dr. Hugo Flores Gutiérrez","Pediatría","Médico Residente","III Nivel","COLMED-LP-6793",32
+881,1,881,"Lic. Rosa Aguilar Mamani","Anestesiología","Enfermera Jefe","III Nivel","COLMED-CB-8555",23
+882,1,882,"Dr. Marcos Vargas Pinto","Endocrinología","Médico Residente","I Nivel","COLMED-CB-1920",39
+883,1,883,"Dra. Carlos Pinto Zárate","Dermatología","Cirujano","I Nivel","COLMED-BE-2250",2
+884,1,884,"Dra. Luis Salvatierra Vargas","Endocrinología","Médico Especialista","III Nivel","COLMED-TJ-4568",38
+885,1,885,"Dr. Juan Zárate Vaca","Urología","Cirujano","II Nivel","COLMED-TJ-3434",40
+886,1,886,"Lic. Carlos Pérez Pinto","Traumatología","Técnico Sanitario","I Nivel","COLMED-BE-1820",22
+887,1,887,"Lic. Daniela Nina Rocha","Cardiología","Enfermera","I Nivel","COLMED-SC-8457",20
+888,1,888,"Dra. Hugo Pérez Condori","Pediatría","Médico General","III Nivel","COLMED-OR-7233",37
+889,1,889,"Lic. Juan Choque Pinto","Medicina General","Enfermera","I Nivel","COLMED-SC-7264",40
+890,1,890,"Dr. Luis Choque Zárate","Medicina Interna","Médico Residente","II Nivel","COLMED-PO-3295",4
+891,1,891,"Dra. Carmen Pérez Quispe","Traumatología","Médico Especialista","I Nivel","COLMED-PO-3818",7
+892,1,892,"Dr. Rosa Zárate Rojas","Medicina Interna","Médico Residente","I Nivel","COLMED-CB-2285",11
+893,1,893,"Lic. María Condori Aguilar","Dermatología","Enfermera","II Nivel","COLMED-TJ-8445",35
+894,1,894,"Lic. Fernando Flores Arce","Endocrinología","Técnico Sanitario","III Nivel","COLMED-OR-3605",11
+895,1,895,"Dr. Raúl Pérez Rocha","Cirugía General","Médico Especialista","II Nivel","COLMED-PA-5752",20
+896,1,896,"Lic. Juan Aguilar Arce","Urología","Técnico Sanitario","I Nivel","COLMED-SC-5111",21
+897,1,897,"Dr. Silvia Rocha Vargas","Endocrinología","Médico Especialista","III Nivel","COLMED-CB-1639",14
+898,1,898,"Lic. Javier Salvatierra Flores","Cardiología","Enfermera Jefe","II Nivel","COLMED-TJ-8487",25
+899,1,899,"Dr. Juan Gutiérrez Rocha","Neurología","Médico Especialista","I Nivel","COLMED-LP-8032",19
+900,1,900,"Dra. Javier Nina Choque","Traumatología","Médico Especialista","III Nivel","COLMED-OR-5126",27
+901,1,901,"Dra. Pedro Rojas Rojas","Medicina Interna","Médico Especialista","III Nivel","COLMED-SC-1472",14
+902,1,902,"Dr. Carlos Condori Vargas","Anestesiología","Médico General","II Nivel","COLMED-PO-7422",7
+903,1,903,"Dra. Daniela Quispe Salvatierra","Urología","Cirujano","III Nivel","COLMED-LP-3537",9
+904,1,904,"Dr. Fernando Aguilar Aguilar","Anestesiología","Cirujano","I Nivel","COLMED-PA-1964",15
+905,1,905,"Lic. Javier Rocha Condori","Medicina Interna","Enfermera Jefe","I Nivel","COLMED-BE-9997",29
+906,1,906,"Lic. José Arce Mercado","Traumatología","Enfermera Jefe","III Nivel","COLMED-CH-8281",9
+907,1,907,"Dr. Patricia Pérez Vaca","Urología","Cirujano","III Nivel","COLMED-LP-3559",40
+908,1,908,"Dr. Jorge Mendoza Pinto","Traumatología","Médico Residente","II Nivel","COLMED-CH-9817",18
+909,1,909,"Lic. Jorge Mendoza Rocha","Traumatología","Enfermera","III Nivel","COLMED-TJ-4651",16
+910,1,910,"Dra. Raúl Pérez Flores","Urología","Cirujano","II Nivel","COLMED-PA-6225",38
+911,1,911,"Dr. Raúl Aguilar Rojas","Dermatología","Médico General","I Nivel","COLMED-CH-1281",38
+912,1,912,"Lic. Hugo Pinto Ticona","Cardiología","Enfermera Jefe","III Nivel","COLMED-TJ-3355",39
+913,1,913,"Dra. Carlos Salvatierra Pinto","Cardiología","Médico Especialista","I Nivel","COLMED-BE-4352",16
+914,1,914,"Dr. Marcos Aguilar Pinto","Urología","Médico Especialista","III Nivel","COLMED-CH-3500",31
+915,1,915,"Dr. Martha Rocha Pérez","Pediatría","Médico Residente","I Nivel","COLMED-BE-1653",15
+916,1,916,"Lic. Daniela Flores Nina","Anestesiología","Técnico Sanitario","II Nivel","COLMED-PA-2728",26
+917,1,917,"Dr. José Condori Condori","Ginecología y Obstetricia","Médico Especialista","I Nivel","COLMED-CB-8080",30
+918,1,918,"Lic. Hugo Ticona Mendoza","Dermatología","Enfermera","III Nivel","COLMED-LP-3578",30
+919,1,919,"Lic. Pedro Salvatierra Flores","Cirugía General","Enfermera Jefe","I Nivel","COLMED-CH-1816",31
+920,1,920,"Dr. Javier Choque Arce","Endocrinología","Médico Especialista","I Nivel","COLMED-LP-2868",8
+921,1,921,"Lic. María Arce Condori","Medicina General","Enfermera","III Nivel","COLMED-TJ-6689",20
+922,1,922,"Lic. Laura Zárate Flores","Cirugía General","Técnico Sanitario","III Nivel","COLMED-BE-6928",31
+923,1,923,"Lic. Patricia Arce Condori","Anestesiología","Técnico Sanitario","II Nivel","COLMED-BE-5604",9
+924,1,924,"Lic. Marcos Salvatierra Mercado","Cardiología","Técnico Sanitario","II Nivel","COLMED-LP-3804",6
+925,1,925,"Dra. Luis Gutiérrez Mercado","Cardiología","Médico General","III Nivel","COLMED-OR-1309",32
+926,1,926,"Lic. Laura Mamani Choque","Anestesiología","Técnico Sanitario","I Nivel","COLMED-TJ-7667",7
+927,1,927,"Dra. José Vaca Vargas","Cardiología","Médico Especialista","III Nivel","COLMED-OR-1775",17
+928,1,928,"Dra. Rosa Zárate Vaca","Pediatría","Médico Especialista","II Nivel","COLMED-SC-3730",8
+929,1,929,"Lic. Pedro Vaca Aguilar","Urología","Enfermera Jefe","III Nivel","COLMED-CH-1631",1
+930,1,930,"Dra. Fernando Flores Rocha","Cardiología","Médico Especialista","II Nivel","COLMED-BE-8157",40
+931,1,931,"Lic. Rosa Rocha Flores","Anestesiología","Técnico Sanitario","III Nivel","COLMED-LP-9842",29
+932,1,932,"Lic. Carmen Zárate Flores","Neurología","Enfermera Jefe","II Nivel","COLMED-PO-2181",33
+933,1,933,"Dra. Martha Salvatierra Vargas","Cardiología","Cirujano","III Nivel","COLMED-SC-6527",18
+934,1,934,"Dra. Daniela Mendoza Gutiérrez","Medicina General","Médico General","III Nivel","COLMED-CH-7442",8
+935,1,935,"Lic. Patricia Mendoza Mamani","Traumatología","Enfermera","III Nivel","COLMED-PO-7450",3
+936,1,936,"Lic. Juan Pérez Gutiérrez","Cardiología","Enfermera","III Nivel","COLMED-CH-1741",33
+937,1,937,"Lic. Marcos Zárate Flores","Medicina Interna","Técnico Sanitario","II Nivel","COLMED-SC-6815",34
+938,1,938,"Lic. Jorge Nina Gutiérrez","Cirugía General","Enfermera Jefe","II Nivel","COLMED-PA-3261",11
+939,1,939,"Lic. Patricia Flores Rocha","Medicina Interna","Enfermera","I Nivel","COLMED-SC-9010",8
+940,1,940,"Dra. Daniela Rojas Vaca","Pediatría","Médico Especialista","I Nivel","COLMED-SC-4477",28
+941,1,941,"Lic. Daniela Pérez Salvatierra","Neurología","Enfermera","II Nivel","COLMED-CB-2870",35
+942,1,942,"Dra. Hugo Zárate Pérez","Anestesiología","Cirujano","II Nivel","COLMED-BE-8361",3
+943,1,943,"Lic. Raúl Quispe Mamani","Cardiología","Enfermera","II Nivel","COLMED-CH-3437",30
+944,1,944,"Dr. Silvia Rocha Mercado","Urología","Cirujano","II Nivel","COLMED-LP-8730",17
+945,1,945,"Dra. Carmen Quispe Mamani","Dermatología","Médico General","I Nivel","COLMED-CB-1982",33
+946,1,946,"Dr. Luis Mendoza Choque","Ginecología y Obstetricia","Cirujano","I Nivel","COLMED-TJ-8902",12
+947,1,947,"Dr. Pedro Pérez Rojas","Cardiología","Médico Residente","I Nivel","COLMED-OR-1449",21
+948,1,948,"Dra. José Rojas Quispe","Cirugía General","Cirujano","II Nivel","COLMED-TJ-7649",30
+949,1,949,"Lic. José Aguilar Mendoza","Medicina General","Enfermera","I Nivel","COLMED-LP-6845",34
+950,1,950,"Dra. Pedro Arce Condori","Neurología","Médico Residente","II Nivel","COLMED-LP-1729",2
+951,1,951,"Dra. Jorge Mamani Gutiérrez","Dermatología","Cirujano","I Nivel","COLMED-CH-6122",32
+952,1,952,"Dr. Luis Ticona Mercado","Cardiología","Cirujano","I Nivel","COLMED-CB-7858",27
+953,1,953,"Dr. Marcos Choque Mercado","Traumatología","Médico Residente","III Nivel","COLMED-CB-5205",6
+954,1,954,"Dra. Fernando Salvatierra Mendoza","Traumatología","Cirujano","III Nivel","COLMED-TJ-5792",22
+955,1,955,"Dr. Raúl Mamani Pérez","Urología","Médico Residente","I Nivel","COLMED-LP-4999",18
+956,1,956,"Lic. Raúl Zárate Pinto","Traumatología","Técnico Sanitario","I Nivel","COLMED-PA-4206",9
+957,1,957,"Dr. Patricia Quispe Arce","Cardiología","Médico Especialista","II Nivel","COLMED-PO-8516",25
+958,1,958,"Lic. Silvia Choque Zárate","Oftalmología","Técnico Sanitario","II Nivel","COLMED-CB-3388",17
+959,1,959,"Dr. Luis Vargas Gutiérrez","Medicina General","Médico Especialista","II Nivel","COLMED-BE-9364",17
+960,1,960,"Lic. Ana Vaca Pinto","Urología","Enfermera Jefe","I Nivel","COLMED-PA-6296",30
+961,1,961,"Lic. Rosa Quispe Salvatierra","Medicina General","Técnico Sanitario","II Nivel","COLMED-BE-7358",26
+962,1,962,"Lic. Martha Gutiérrez Flores","Oftalmología","Técnico Sanitario","III Nivel","COLMED-LP-3064",35
+963,1,963,"Dr. Jorge Gutiérrez Arce","Medicina Interna","Médico Residente","I Nivel","COLMED-CB-7060",33
+964,1,964,"Lic. Jorge Rojas Vargas","Traumatología","Enfermera","I Nivel","COLMED-SC-1228",12
+965,1,965,"Dra. Laura Rojas Mendoza","Oftalmología","Médico Especialista","III Nivel","COLMED-CH-3479",29
+966,1,966,"Lic. Carmen Vaca Vaca","Pediatría","Técnico Sanitario","III Nivel","COLMED-PO-1108",17
+967,1,967,"Lic. José Mendoza Mendoza","Pediatría","Enfermera","I Nivel","COLMED-OR-1259",37
+968,1,968,"Dra. Javier Choque Vaca","Dermatología","Médico Especialista","III Nivel","COLMED-TJ-5291",31
+969,1,969,"Lic. Carmen Flores Rojas","Medicina Interna","Enfermera Jefe","I Nivel","COLMED-SC-9317",8
+970,1,970,"Lic. Patricia Mercado Condori","Oftalmología","Enfermera Jefe","II Nivel","COLMED-CH-5073",15
+971,1,971,"Dra. Pedro Arce Vaca","Medicina General","Médico Especialista","II Nivel","COLMED-CB-4110",22
+972,1,972,"Lic. Ana Pinto Condori","Ginecología y Obstetricia","Enfermera Jefe","II Nivel","COLMED-TJ-1780",33
+973,1,973,"Dr. José Gutiérrez Nina","Cardiología","Cirujano","I Nivel","COLMED-PA-8121",37
+974,1,974,"Dra. Carlos Salvatierra Pérez","Urología","Médico General","III Nivel","COLMED-BE-3983",14
+975,1,975,"Lic. Laura Salvatierra Pérez","Neurología","Enfermera Jefe","I Nivel","COLMED-CH-8940",31
+976,1,976,"Lic. Marcos Mendoza Rojas","Cardiología","Enfermera Jefe","III Nivel","COLMED-CH-6435",39
+977,1,977,"Lic. Juan Flores Choque","Urología","Enfermera Jefe","II Nivel","COLMED-CH-6708",30
+978,1,978,"Dra. Carmen Rocha Mamani","Anestesiología","Médico Especialista","I Nivel","COLMED-LP-6665",20
+979,1,979,"Lic. Laura Quispe Salvatierra","Pediatría","Enfermera Jefe","III Nivel","COLMED-CH-8464",26
+980,1,980,"Dr. Marcos Mendoza Zárate","Oftalmología","Médico General","II Nivel","COLMED-OR-9673",17
+981,1,981,"Lic. Carmen Vargas Flores","Pediatría","Enfermera","I Nivel","COLMED-SC-2616",40
+982,1,982,"Dra. Marcos Mercado Rocha","Medicina General","Médico Especialista","III Nivel","COLMED-OR-9961",32
+983,1,983,"Dra. Ana Choque Condori","Neurología","Médico Residente","II Nivel","COLMED-CH-6222",27
+984,1,984,"Lic. Hugo Rocha Vargas","Medicina General","Técnico Sanitario","I Nivel","COLMED-CB-2660",14
+985,1,985,"Lic. María Flores Pérez","Neurología","Enfermera Jefe","III Nivel","COLMED-CH-2450",29
+986,1,986,"Lic. Marcos Gutiérrez Quispe","Dermatología","Enfermera Jefe","III Nivel","COLMED-PA-9198",34
+987,1,987,"Lic. María Choque Vaca","Pediatría","Enfermera Jefe","II Nivel","COLMED-PO-2962",19
+988,1,988,"Dr. Ana Pérez Rojas","Medicina General","Médico General","II Nivel","COLMED-LP-1565",6
+989,1,989,"Lic. Fernando Vaca Nina","Anestesiología","Enfermera","I Nivel","COLMED-BE-9245",37
+990,1,990,"Lic. Silvia Rojas Nina","Traumatología","Enfermera Jefe","II Nivel","COLMED-CB-7512",15
+991,1,991,"Lic. Daniela Rojas Pinto","Endocrinología","Enfermera","I Nivel","COLMED-TJ-8383",6
+992,1,992,"Lic. Fernando Vargas Vargas","Endocrinología","Técnico Sanitario","III Nivel","COLMED-CH-3930",39
+993,1,993,"Lic. Juan Nina Mercado","Dermatología","Enfermera Jefe","II Nivel","COLMED-CH-3952",1
+994,1,994,"Dr. José Aguilar Vaca","Traumatología","Médico Especialista","III Nivel","COLMED-BE-2457",12
+995,1,995,"Lic. Carmen Ticona Arce","Dermatología","Enfermera Jefe","II Nivel","COLMED-PO-1105",40
+996,1,996,"Dra. Pedro Condori Aguilar","Traumatología","Cirujano","III Nivel","COLMED-OR-4584",11
+997,1,997,"Lic. José Ticona Mendoza","Endocrinología","Enfermera","I Nivel","COLMED-PA-3390",10
+998,1,998,"Dr. José Pérez Aguilar","Urología","Médico Especialista","III Nivel","COLMED-CH-8834",39
+999,1,999,"Dra. Raúl Vargas Mendoza","Oftalmología","Médico General","II Nivel","COLMED-PO-4910",24
+1000,1,1000,"Dr. Hugo Aguilar Quispe","Cirugía General","Médico Especialista","II Nivel","COLMED-TJ-1048",11
